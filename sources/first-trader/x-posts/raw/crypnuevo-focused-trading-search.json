@@ -1,0 +1,16 @@
+{
+  "collectedAt": "2026-06-13T06:25:19.989Z",
+  "total": 0,
+  "windows": [
+    {
+      "q": "from:CrypNuevo \"Sunday update\" since:2026-01-01 until:2026-07-01",
+      "tag": "weekly-sunday",
+      "before": 0,
+      "after": 0,
+      "added": 0,
+      "failed": true,
+      "steps": []
+    }
+  ],
+  "items": []
+}

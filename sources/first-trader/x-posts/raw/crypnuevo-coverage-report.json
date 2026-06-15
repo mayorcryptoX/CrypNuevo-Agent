@@ -1,0 +1,30 @@
+{
+  "collectedAt": "2026-06-13T06:22:37.070Z",
+  "mediaTabReported": "3332 photos & videos",
+  "profileReportedPosts": "9944 posts",
+  "mediaGridLinks": 487,
+  "searchMediaPosts": 787,
+  "unionMediaStatusIds": 1023,
+  "unresolvedFailedWindows": [
+    {
+      "since": "2023-12-01",
+      "until": "2024-01-01"
+    },
+    {
+      "since": "2024-07-08",
+      "until": "2024-07-15"
+    },
+    {
+      "since": "2024-07-15",
+      "until": "2024-07-22"
+    },
+    {
+      "since": "2024-07-22",
+      "until": "2024-07-29"
+    },
+    {
+      "since": "2024-07-29",
+      "until": "2024-08-01"
+    }
+  ]
+}

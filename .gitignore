@@ -1,0 +1,18 @@
+# Local working files
+.DS_Store
+Thumbs.db
+
+# Optional generated exports/caches
+.cache/
+dist/
+build/
+tmp/
+
+# Keep raw large media out of git unless intentionally added
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+

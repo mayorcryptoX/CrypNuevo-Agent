@@ -1,0 +1,426 @@
+# CrypNuevo Weekly Market Update Index
+
+Created: 2026-06-13T06:35:41.430Z
+
+Captured weekly/update candidates: 205
+
+Trading-relevant corpus entries: 860
+
+Recovered grid-only status pages processed: 145
+
+Status pages needing retry because they returned zero articles: 26
+
+This index prioritizes Sunday/weekly BTC market updates and nearby update posts. It currently combines text-backed search captures and recovered status-detail pages.
+
+- Jun 15 - https://x.com/CrypNuevo/status/2066280050085777618
+  - CrypNuevo @CrypNuevo · Jun 15 $BTC Sunday update: Still seeing a recovery to the mid-range $69k. From there, I'll look for signs of momentum decreasing and a potential rejection to close my long and set orders again at range lows for a possible Three Taps pattern. ↓(1/5) | Also covers: $GOLD swing long filled $4250-$4150 (holding above 1W50EMA), $CL Crude Oil long in progress (TP = gap below). Library note: library/first-trader/setup-examples/crypnuevo-three-taps-range-pattern.md
+- Jun 7 - https://x.com/CrypNuevo/status/2063657770243555470
+  - CrypNuevo @CrypNuevo · Jun 7 $BTC Sunday update: Price is back at the range lows of this 4-month range. I'm expecting a strong bounce here, not because it's a range since all of them eventually break, but because this drop was too sharp (-25% in 4 weeks) and is extremely overextended. ↓(1/5) 80 74 854 87K
+- Jun 1 - https://x.com/CrypNuevo/status/2061194079246201028
+  - CrypNuevo @CrypNuevo · Jun 1 $BTC Sunday update: This is the trade that I'll try to get this week: I see a long wick to the downside between $73k-$72.5k - price tends to retrace these type of long wick imbalances. So I'll favor and look for longs in that zone if it hits. But, to what target? ↓(1/5) 56 46 686 80K
+- May 22 - https://x.com/CrypNuevo/status/2057594557089366448
+  - CrypNuevo @CrypNuevo · May 22 $BTC update: Exploring this scenario in detail I noticed some liquidations appearing in the $79.4k area which matches the range highs. Then, I drew my execution trigger and my invalidation - always prepared for potential setups so I know how to react. Quote CrypNuevo @CrypNuevo · May 19 $BTC update: Now that it's confirmed that ...
+- May 19 - https://x.com/CrypNuevo/status/2056749023470465140
+  - CrypNuevo @CrypNuevo · May 19 $BTC update: Now that it's confirmed that Bitcoin only deviated above the range highs (we're back inside the range), I'm sticking to the previous BTC Sunday update analysis. The retrace of the Liquidity Pool at $71k is probable. A retest & rejection at $79k is possible. Quote CrypNuevo @CrypNuevo · May 3 $BTC Sunday update: Pric...
+- May 10 - https://x.com/CrypNuevo/status/2053564775813025879
+  - CrypNuevo @CrypNuevo · May 10 $BTC Sunday update: We waited for the price to settle and now we have clearer Price Action. Price has found acceptance above $81k and the EMAs have caught up. Therefore, we're expecting price to potentially push higher to $84k-$85k next week. ↓(1/4) 38 39 664 65K
+- May 1 - https://x.com/CrypNuevo/status/2049966383153254892
+  - CrypNuevo @CrypNuevo · May 1 $BTC update: Price pushed higher to our zone and made a new local high this week $79.5k. I'm positioned to the downside but I still have a few orders that didn't trigger between $80k-$81kk. On Sunday we'll analyse if price can make a new high before reversing or if that was it Quote CrypNuevo @CrypNuevo · Apr 27 $BTC Sunday updat...
+- Apr 27 - https://x.com/CrypNuevo/status/2048522919110660603
+  - CrypNuevo @CrypNuevo · Apr 27 $BTC Sunday update: I've been patiently waiting for this setup to happen since 15th March. Now, price is really close to hit my area for a swing trade attempt ($80k-$81k). Based on the idea that we could range for another month, we could see a deviation here. ↓(1/5) 39 56 787 133K
+- Apr 19 - https://x.com/CrypNuevo/status/2045942267458822397
+  - CrypNuevo @CrypNuevo · Apr 19 $BTC Sunday update: Strait of Hormuz fully closed, Iran rejected taking part in Round 2 of negociations and Trump is trapped in this war again. Feels like a dead-end so my take is that we'll see some further escalation before de-escalation. Just trade the range. ↓(1/4) 29 79 754 71K
+- Apr 13 - https://x.com/CrypNuevo/status/2043448381671092296
+  - CrypNuevo @CrypNuevo · Apr 13 $BTC Sunday update: It's the clearest chart in a long time: Nothing to do here at mid-range - wait for price to trade at one of the extremes, probably this week or the next. • I'll look for swing shorts at $79k-$80k • I'll look for swing longs at $61k-$59k ↓(1/4) 34 70 820 66K
+- Apr 5 - https://x.com/CrypNuevo/status/2040865374485299674
+  - CrypNuevo @CrypNuevo · Apr 5 $BTC Sunday update: Difficult conditions to trade as Price Action is basically driven by the US-Iran war and Trump's tweets. Therefore, I'm only looking to trade the extremes of this range. For now, I'm favoring the range lows to hit first, where I'll look for longs. ↓(1/5) 57 78 733 62K
+- Mar 27 - https://x.com/CrypNuevo/status/2037508373793447966
+  - CrypNuevo @CrypNuevo · Mar 27 $BTC update: Price is rotating towards our $65k level for the week. On the higher timeframe, this could still likely develop a big boring range throughout April too. At least, that's where I see Price Action going for now. Swing traders will need to stay patient. Quote CrypNuevo @CrypNuevo · Mar 22 $BTC Sunday update: It feels l...
+- Mar 22 - https://x.com/CrypNuevo/status/2035744069960249780
+  - CrypNuevo @CrypNuevo · Mar 22 Replying to @CrypNuevo In LTF, I'll be favoring a potential price rotation to $65k next week. I'd like to position for this around $70k if we see a short-lived push to the upside at the start of the week. But with caution, because acceptance above $71k would invalidate it and I'd long to $73k-$74k. 1 13 273 19K
+- Mar 22 - https://x.com/CrypNuevo/status/2035744063471689755
+  - CrypNuevo @CrypNuevo · Mar 22 $BTC Sunday update: It feels like we'll be stuck in this range for the next month too. We could see some conflict escalation (uncertainty) next week that could trigger a new visit to the range lows where an interesting 4h long wick still sits there. Let's analyse: ↓(1/6) 1 70 778 136K
+- Mar 1 - https://x.com/CrypNuevo/status/2028193561053646871
+  - CrypNuevo @CrypNuevo · Mar 1 $BTC Sunday update: As we mentioned last Sunday, the US-Iran conflict is breaking out. The market was pricing in this conflict throughout the week and price dropped 8%, close to our -10% target. This is how I expect the stock market and crypto to behave next week: ↓(1/5) 38 52 575 72K
+- Feb 22 - https://x.com/CrypNuevo/status/2025634327954919928
+  - CrypNuevo @CrypNuevo · Feb 22 $BTC Sunday update: Price tends to fill the 100% of the wick after revisiting the 50% level once it's been filled. And it looks like this could be the current situation. It's going to be a volatile week, especially Monday and, perhaps, the weekend... here's why: ↓(1/4) 52 104 1K 128K
+- Feb 15 - https://x.com/CrypNuevo/status/2023106247096942946
+  - CrypNuevo @CrypNuevo · Feb 15 $BTC Sunday update: Last week we were calling for the wick-fill of this last weekly candle... and it happened! It got virtually filled 50% (48.5%). Does that mean that a bounce is coming? or that 100% wick-fill is next? Let's analyse it: ↓(1/4) 55 86 933 116K
+- Feb 8 - https://x.com/CrypNuevo/status/2020552064523284835
+  - CrypNuevo @CrypNuevo · Feb 8 Replying to @CrypNuevo The intention to push price up first would be to hit the short liquidations that exist between $72k-$77k mainly. But this move is just a guess. What we're really anticipating here is the long wick getting filled at least 50% of it in the next weekly candles. 2 5 318 28K
+- Feb 8 - https://x.com/CrypNuevo/status/2020552060937085189
+  - CrypNuevo @CrypNuevo · Feb 8 $BTC Sunday update: According to the wick fill strategy, this new 1W long wick will likely get filled. Perhaps we could see a bit of upside continuation with this short-term bounce - if so, I'll use it to open shorts towards the wick. And we'll likely form a range. ↓(1/4) 59 106 962 107K
+- Feb 4 - https://x.com/CrypNuevo/status/2019119406719135830
+  - CrypNuevo @CrypNuevo · Feb 4 $BTC update: We're witnessing the first part of this new projection: the liquidity sweep of the previous low. Longing this is risky, we all agree. It requires screen time, risk management and confidence. This chart shows the safest way: wait for 1W candle close back above it. Quote CrypNuevo @CrypNuevo · Feb 1 $BTC Sunday update:...
+- Feb 1 - https://x.com/CrypNuevo/status/2017992124625506367
+  - CrypNuevo @CrypNuevo · Feb 1 $BTC Sunday update: I've been looking at this scenario since November and explained it in my latest videos. Now, we're very close to this level and I'll pay attention to it. This is the next most likely Price Action in my opinion, and what I think it'll happen next: ↓(1/5) 111 149 1.4K 417K
+- Jan 25 - https://x.com/CrypNuevo/status/2015457064055681277
+  - CrypNuevo @CrypNuevo · Jan 25 $BTC Sunday update: The projection we mapped out some weeks ago has been very accurate so far And I'm still supporting it. Word on the street says that there will be another US government shutdown next week. That would only decrease liquidity and add pressure! ↓(1/5) 41 96 827 83K
+- Dec 28, 2025 - https://x.com/CrypNuevo/status/2005317544261865528
+  - CrypNuevo @CrypNuevo · Dec 28, 2025 $BTC Sunday update: Record levels of options expired on Friday, so I'm expecting a lot of volatility for the next few weeks. Those options kept price stuck in a range - price will be more volatile now. My main scenario is a downside liquidity run first, here's why: ↓(1/5) 49 124 893 91K
+- Dec 22, 2025 - https://x.com/CrypNuevo/status/2003148108746883481
+  - CrypNuevo @CrypNuevo · Dec 22, 2025 Simplified version of yesterday's $BTC Sunday update: MMs had losses on October 10th and they've been selling from $115k-$110k to rebalance. Little left to sell; likely buying now 25% cheaper. 2 scenarios: • Breaking $94.5k will push price to $100k • Retest/sweep of the lows 78 115 781 71K
+- Dec 21, 2025 - https://x.com/CrypNuevo/status/2002845250163741086
+  - CrypNuevo @CrypNuevo · Dec 21, 2025 $BTC Sunday update: What really happened on October 10th? From trusted intel I received this week, supposedly, several Market Makers caught in the volatility had big losses on October 10th. Consequently, they've been selling assets to rebalance. What does this mean? ↓(1/5) 56 105 811 111K
+- Dec 14, 2025 - https://x.com/CrypNuevo/status/2000264811289145364
+  - CrypNuevo @CrypNuevo · Dec 14, 2025 $BTC Sunday update: Same projection and idea as I've had for the last 2 weeks. Nothing has changed in terms of Price Action. This really looks like a range and it's trading like one. Looking for shorts in these 2 areas if price comes to them first. ↓(1/4) 44 80 728 67K
+- Dec 8, 2025 - https://x.com/CrypNuevo/status/1997823730106433543
+  - CrypNuevo @CrypNuevo · Dec 8, 2025 $BTC Sunday update: Along the same lines as last Sunday, this looks like a range and it's trading like one. For shorts, I'm looking for a 1D50EMA retest and I'm thinking that it'll adjust around $95.5k and be the range highs. For longs, I'm looking for a clear base. ↓(1/4) 106 125 848 76K
+- Dec 1, 2025 - https://x.com/CrypNuevo/status/1995257450677543128
+  - CrypNuevo @CrypNuevo · Dec 1, 2025 $BTC Sunday update: This looks similar to the Price Action back in Feb-March this year. Drop with a liquidation cascade > quick recovery > 1D50EMA rejection > back to lows > bounce above the 1D50EMA > end of correction and new highs Let's discuss a couple scenarios: ↓(1/6) 70 90 945 116K
+- Nov 29, 2025 - https://x.com/CrypNuevo/status/1994734245265510746
+  - CrypNuevo @CrypNuevo · Nov 29, 2025 TradingView has the best Cyber Monday sale in the space, don't miss it! The team is kindly giving away 4 free subscriptions (Ultimate, Premium, Plus, and Essential). Like + RT + comment your @tradingview username. I'll pick the 4 winners tomorrow in the BTC Sunday update. 251 208 417 30K
+- Nov 9, 2025 - https://x.com/CrypNuevo/status/1987596421789323763
+  - CrypNuevo @CrypNuevo · Nov 9, 2025 Replying to @CrypNuevo I think that last week's move was triggered by the liquidity squeeze that the US Gov shutdown is causing. What will happen once it re-opens? They have no choice but to inject liquidity! I think it'll open by 17th - 20th November, a week ahead of Thanksgiving & Black Friday. 3 3 215 19K
+- Nov 9, 2025 - https://x.com/CrypNuevo/status/1987596414222741961
+  - CrypNuevo @CrypNuevo · Nov 9, 2025 $BTC Sunday update: Price reached our target from last Sunday - a very interesting level: 1W50EMA, Oct 10th long wick filled, Range lows & $100k psychological level. This is how I'll be trading next week: ↓(1/7) 30 62 688 82K
+- Nov 5, 2025 - https://x.com/CrypNuevo/status/1986077354527973472
+  - CrypNuevo @CrypNuevo · Nov 5, 2025 $BTC update: What a week... can't believe how fast and accurate everything happened. I'll be posting a quick technical video in some minutes updating my market view on this chart and how I'm trading it. Stay tuned vamos!! Quote CrypNuevo @CrypNuevo · Nov 4, 2025 $BTC update: 8% down in 48h since the Sunday update - range lo...
+- Nov 4, 2025 - https://x.com/CrypNuevo/status/1985759275751272613
+  - CrypNuevo @CrypNuevo · Nov 4, 2025 $BTC update: 8% down in 48h since the Sunday update - range lows & 1W50EMA hit, full wick filled as projected Avoided any losses by not trying to catch knifes. Now, I'm ready to pull the trigger. We could see a bounce in this area, between $101k & $97k incase of a wick. Quote CrypNuevo @CrypNuevo · Nov 2, 2025 $BTC Sunday u...
+- Nov 4, 2025 - https://x.com/CrypNuevo/status/1985661391160713571
+  - CrypNuevo @CrypNuevo · Nov 4, 2025 $BTC update: The Sunday update is playing out, Bitcoin is already 6% down in less than 48h Investors and traders are getting tired and frustated which makes a bounce from $101k area possible. Confluence at $101k: Range lows deviation, 100% wick fill & 1W50EMA support. Quote CrypNuevo @CrypNuevo · Nov 2, 2025 $BTC Sunday upd...
+- Nov 2, 2025 - https://x.com/CrypNuevo/status/1985062093012238408
+  - CrypNuevo @CrypNuevo · Nov 2, 2025 $BTC Sunday update: In all honesty, it looks like this could be one of the most difficult trading weeks of Q4. That makes me think we might be in a range-bound environment; therefore, I should be aware of a potential range lows retest. Let's give this a thought: ↓(1/6) 56 84 864 272K
+- Oct 20, 2025 - https://x.com/CrypNuevo/status/1980274267720954112
+  - CrypNuevo @CrypNuevo · Oct 20, 2025 $BTC update: Not sure if price will ignore the new small CME gap or if we'll hit it next - that's the importance of splitting entries (DCA in position). But seems clear that the trend is to the upside. Once $116k-$117k short liquidations hit, it can force a move higher +$120k. Quote CrypNuevo @CrypNuevo · Oct 19, 2025 $BTC...
+- Oct 19, 2025 - https://x.com/CrypNuevo/status/1979948247872667996
+  - CrypNuevo @CrypNuevo · Oct 19, 2025 $BTC Sunday update: Last week's projection played out perfectly, at least the 50% of the wick was filled. Now, are the imbalances to the downside fully retraced? can we expect a move up from here? where is the liquidity? I'm expecting another volatile week: ↓(1/6) 63 128 1.1K 248K
+- Oct 17, 2025 - https://x.com/CrypNuevo/status/1979137008686764282
+  - CrypNuevo @CrypNuevo · Oct 17, 2025 $BTC update: Please go through the quoted previous Sunday update again to understand: • How I came up with this winning projection/trades • How I scaled and organized my buying orders • Importance and possibility of retesting/bottoming again the 1W50EMA, currently $99.7k Quote CrypNuevo @CrypNuevo · Oct 12, 2025 $BTC Sunda...
+- Oct 17, 2025 - https://x.com/CrypNuevo/status/1978985475760361759
+  - CrypNuevo @CrypNuevo · Oct 17, 2025 $BTC Sunday update nailed In just 4 days we caught a 5% short squeeze and a 7% drop. Wick fill strategy doing it again. This strategy is so broken that needs to get nerfed. Thanks for your support 67 50 988 64K
+- Oct 12, 2025 - https://x.com/CrypNuevo/status/1977348413823090927
+  - CrypNuevo @CrypNuevo · Oct 12, 2025 $BTC Sunday update: Friday's unprecedent liquidation cascade has created some imbalances, both to the downside and to the upside. In altcoins, the wicks are more exaggerated - we'll cover that too. Let's have a look at the possibilities and how I'll trade next week. ↓(1/7) 64 96 861 178K
+- Oct 9, 2025 - https://x.com/CrypNuevo/status/1976182657659859069
+  - CrypNuevo @CrypNuevo · Oct 9, 2025 $BTC update: Price Action is following our projection from Sunday. We saw first a final spike up and then the correction which was just 0.01% ($120) away from our target lol. Closed my short scalps and I'm mapping out my next moves, looking for longs. Enjoying Japan btw Quote CrypNuevo @CrypNuevo · Oct 5, 2025 Replying to @...
+- Sep 29, 2025 - https://x.com/CrypNuevo/status/1972666663435899283
+  - CrypNuevo @CrypNuevo · Sep 29, 2025 $BTC update: Bullish BTC Sunday update and already 4% up in 24h Theory of the Contrary Opinion does it again - I wasn't crazy then. Unfortunetely, most traders were either shorting or sidelined waiting sub $100k. Thanks for your trust and for reading me another Sunday Quote CrypNuevo @CrypNuevo · Sep 28, 2025 $BTC Sunday u...
+- Sep 28, 2025 - https://x.com/CrypNuevo/status/1972325683360629039
+  - CrypNuevo @CrypNuevo · Sep 28, 2025 $BTC Sunday update: Price is above a strong support. I bought in this zone because I think the R:R is pretty good given this zone will probably hold. Otherwise we'll see a new retest of the 1W50EMA at $98k. I see it less likely, but left some orders placed in case. ↓(1/5) 84 62 730 132K
+- Sep 26, 2025 - https://x.com/CrypNuevo/status/1971613383733702878
+  - CrypNuevo @CrypNuevo · Sep 26, 2025 $BTC Yellow box should likely hold. Some liquidations there, but majority are still to the upside around $116.5k-$117k. Delta liquidations at medium risk for a short squeeze. Let's see on the BTC Sunday update. 68 49 677 50K
+- Sep 22, 2025 - https://x.com/CrypNuevo/status/1970080495913333092
+  - CrypNuevo @CrypNuevo · Sep 22, 2025 $BTC update: Retraced done to range lows Price should likely hold here, added some swing longs again - waiting for some wicks to the downside as a sign/confirmation, I'll update. Hopefully 1-2 days of boring PA, maybe even another liquidity grab (?), and then a bounce. Quote CrypNuevo @CrypNuevo · Sep 21, 2025 $BTC Sunday ...
+- Sep 21, 2025 - https://x.com/CrypNuevo/status/1969810637279682907
+  - CrypNuevo @CrypNuevo · Sep 21, 2025 $BTC Sunday update: Building on the projection we made a few weeks ago, let’s break it down in more detail for next week. • Are we still going up to the LP? • Where can I add longs if there is a retrace? Let's look at the liquidity and draw a new LTF projection: ↓(1/5) 41 66 757 140K
+- Sep 14, 2025 - https://x.com/CrypNuevo/status/1967284893244703012
+  - CrypNuevo @CrypNuevo · Sep 14, 2025 $BTC Sunday update: I've been bullish for the past 2 weeks, riding this move and taking only 1/3 profits of my SOL & ETH longs for having confidence in my idea. Interest Rate cut on Wednesday - this is what I think it'll probably happen and how I'm playing it: ↓(1/6) 108 91 1K 131K
+- Aug 31, 2025 - https://x.com/CrypNuevo/status/1962173251859202248
+  - CrypNuevo @CrypNuevo · Aug 31, 2025 $BTC Sunday update: Interest Rate cut the 17th Sep... and we get this dip! Deviation or a deeper correction? Liquidity drives the market, so let's have a look at the liquidations, imbalances and psychological levels full of liquidity to understand the next move: ↓(1/5) 66 123 1.2K 253K
+- Aug 24, 2025 - https://x.com/CrypNuevo/status/1959626246565876059
+  - CrypNuevo @CrypNuevo · Aug 24, 2025 $BTC Sunday update: Price is clearly ranging between $112k & $120k. We got two noticeable liquidity pools (LPs) in each side, and also some liquidations hinting that a deviation outside the range could be in play next. Let's analyse the MMs' footprints in detail: ↓(1/5) 60 75 833 193K
+- Aug 17, 2025 - https://x.com/CrypNuevo/status/1957132713732796647
+  - CrypNuevo @CrypNuevo · Aug 17, 2025 $BTC Sunday update: Bitcoin made a new ATH, but then a manipulated organized move dumped price causing $1B in liquidations in 24h. At the same time that retail was getting stopped out & liquidated... a hand bought all those liquidations. This can only mean one thing ↓(1/6) 44 62 901 93K
+- Aug 11, 2025 - https://x.com/CrypNuevo/status/1954860811916099727
+  - CrypNuevo @CrypNuevo · Aug 11, 2025 $BTC update: First part of the Sunday update already done Now, I'd like to see the retest of $120k to complete the R/S flip. And if it holds as support, a new ATH will be imminent. It's looking good Quote CrypNuevo @CrypNuevo · Aug 10, 2025 $BTC Sunday update: The most important level to watch this week is $120k. This leve...
+- Aug 10, 2025 - https://x.com/CrypNuevo/status/1954530583301738542
+  - CrypNuevo @CrypNuevo · Aug 10, 2025 $BTC Sunday update: The most important level to watch this week is $120k. This level marks the current local resistance, and flipping it to support would allow us to make new highs. We'll analyse this idea throughout the week as PA develops. What about ETH & alts? ↓ (1/6) 62 79 1K 175K
+- Jul 27, 2025 - https://x.com/CrypNuevo/status/1949490283898368366
+  - CrypNuevo @CrypNuevo · Jul 27, 2025 $BTC Sunday update: Still monitoring that past PA we focused last Sunday. We saw the wicks to the upside and price not progressing any further, that helped us trade the drop this week. However, it created a long wick to the downside that can potentially get filled. ↓ (1/5) 61 97 938 205K
+- Jul 25, 2025 - https://x.com/CrypNuevo/status/1948690138072076460
+  - CrypNuevo @CrypNuevo · Jul 25, 2025 $BTC Sunday update nailed As expected, not much activity this week but we got the biggest move/trade of the week. • Liquidation cluster between $116k-$115k hit • Main liquidation level at $115.3k hit CME gap didn't hit by just a few hundreds - they'll probably try again Quote CrypNuevo @CrypNuevo · Jul 20, 2025 $BTC Sunday...
+- Jul 20, 2025 - https://x.com/CrypNuevo/status/1946991715270926497
+  - CrypNuevo @CrypNuevo · Jul 20, 2025 $BTC Sunday update: We’re heading into a quiet week during this strong uptrend, but there’s a warning sign potentially forming on the 1D timeframe that we need to be aware of. Wicks to the upside but price not progressing any further: a sign that MM builds shorts. ↓ (1/6) 76 122 1.3K 226K
+- Jul 15, 2025 - https://x.com/CrypNuevo/status/1945061161373704574
+  - CrypNuevo @CrypNuevo · Jul 15, 2025 $BTC Sunday update nailed! Classic manipulated PA, pump-and-dump weekly pattern but we stayed ahead, prepared. You’ve got to look beyond the candles - into the liquidity and the hands that move the market. Appreciate the support. My pleasure to share what I’ve learned Quote CrypNuevo @CrypNuevo · Jul 14, 2025 $BTC update: ...
+- Jul 14, 2025 - https://x.com/CrypNuevo/status/1944670111870148738
+  - CrypNuevo @CrypNuevo · Jul 14, 2025 $BTC update: Great pump at the start of the week to $122k as projected It was a clear move considering the manipulation and reasons behind this move in this week. We need to be aware of more manipulation. This could also be part of a pump-and-dump weekly pattern. Caution. Quote CrypNuevo @CrypNuevo · Jul 13, 2025 Replying ...
+- Jul 13, 2025 - https://x.com/CrypNuevo/status/1944372774635462666
+  - CrypNuevo @CrypNuevo · Jul 13, 2025 Replying to @CrypNuevo This is my trading projection for the week ahead: • Push up to $120k-$122k • Liquidation delta increases more • Consolidation at the highs, but with wicks to the upside • Bart simpson pattern back to $118k-$117k. Just my projection, only use it for confluence to your ideas. 9 27 526 116K
+- Jul 13, 2025 - https://x.com/CrypNuevo/status/1944372761863856506
+  - CrypNuevo @CrypNuevo · Jul 13, 2025 $BTC Sunday update: Huge week ahead! The US House designated July 14-18 as "Crypto Week" with 3 key bills up for review: • Genius Act • Clarity Act • Anti-CBDC Surveillance State Act Also, $TRUMP tokens unlock Friday - will they pump crypto before profit-taking? ↓ (1/6) 37 47 590 68K
+- Jun 22, 2025 - https://x.com/CrypNuevo/status/1936830634426577150
+  - CrypNuevo @CrypNuevo · Jun 22, 2025 $BTC Sunday update: Looks like Bitcoin is anticipating a (more than likely) sell-off in the stock market tomorrow after the US intervention in Iran. With war escalating and fears that Iran blocks the Strait of Hormuz, risk markets like crypto can drop further. ↓ (1/6): 69 93 935 122K
+- Jun 8, 2025 - https://x.com/CrypNuevo/status/1931803943434125791
+  - CrypNuevo @CrypNuevo · Jun 8, 2025 Traveling in Africa atm! Won't be able to post a Sunday update today and neither next week (sorry!). Good to have some time off to recharge batteries!! 96 6 833 40K
+- Jun 7, 2025 - https://x.com/CrypNuevo/status/1931370287175454904
+  - CrypNuevo @CrypNuevo · Jun 7, 2025 $BTC update: $103k --> $100k ✓ $100k --> $105k ✓ 100k is the strongest psychological support so, as explained on Sunday, it's the area where I'm building some longs with easy invalidation below it. Not discarding revisiting this level again tho. Quote CrypNuevo @CrypNuevo · Jun 1, 2025 $BTC Sunday update: R/S flip failed - ...
+- Jun 5, 2025 - https://x.com/CrypNuevo/status/1930729265865306288
+  - CrypNuevo @CrypNuevo · Jun 5, 2025 $BTC update: Plan is playing out so far! Let's see if this psychological support ($100k) can hold. A quick bounce is unlikely imo. I'd expect that, at best, a small consolidation in this area before any interesting move could be the case - unless if we break below it fast. Quote CrypNuevo @CrypNuevo · Jun 1, 2025 $BTC Sunda...
+- Jun 1, 2025 - https://x.com/CrypNuevo/status/1929165908666392875
+  - CrypNuevo @CrypNuevo · Jun 1, 2025 $BTC Sunday update: R/S flip failed - we hit the LTF downside liquidations but couldn't recover that $106k level afterwards. So we could likely head to $100k psychological level + 1D50EMA. And just to add more spice to the week... labour market data on Friday! ↓ (1/4): 63 95 997 266K
+- May 27, 2025 - https://x.com/CrypNuevo/status/1927412541866528793
+  - CrypNuevo @CrypNuevo · May 27, 2025 $ETH Nailed Probably my best public trade of the year so far - R:R was good based on the structure and previous reactions so I bought a lot of tokens there. Took profits (20% pos) here to pay myself and I'll continue riding the 80% back above $3k in the next weeks/months. Quote CrypNuevo @CrypNuevo · Apr 16, 2025 $ETH This...
+- May 21, 2025 - https://x.com/CrypNuevo/status/1925283538070643031
+  - CrypNuevo @CrypNuevo · May 21, 2025 $BTC update: New ATH unlocked as promised! Personally, I don't think that was all. More to come in the following weeks/months, at least $115k should come in my opinion. Consolidation and acceptance here until the weekend would be a lower risk entry than last week. Quote CrypNuevo @CrypNuevo · May 18, 2025 $BTC Sunday updat...
+- May 18, 2025 - https://x.com/CrypNuevo/status/1924124488037273640
+  - CrypNuevo @CrypNuevo · May 18, 2025 Replying to @CrypNuevo And this is the other scenario, the one from the last BTC Sunday update and the one that would reduce the risk the most for a long position. Retrace before continuation. I'd rather seeing this one playing out since it'll give the best R:R, but I'll trade what the market gives 10 24 437 39K
+- May 18, 2025 - https://x.com/CrypNuevo/status/1924124479359229988
+  - CrypNuevo @CrypNuevo · May 18, 2025 $BTC Sunday update: As stated over the past weeks, the current HTF structure is bullish. We've simply retested the 1W50EMA, the main bull market support level, and bounced from it like in the previous times. We should make a new high, which would be a new ATH. ↓ (1/5): 51 82 804 150K
+- May 17, 2025 - https://x.com/CrypNuevo/status/1923825991371325472
+  - CrypNuevo @CrypNuevo · May 17, 2025 $BTC update: Slow week and Bitcoin hasn't been able to break resistance so far, which still makes me think that this scenario might be possibly in play. We'll discuss more about this tomorrow in the BTC Sunday update Enjoy your weekend and thanks for your support! Quote CrypNuevo @CrypNuevo · May 11, 2025 Replying to @Cryp...
+- May 11, 2025 - https://x.com/CrypNuevo/status/1921557189056950728
+  - CrypNuevo @CrypNuevo · May 11, 2025 $BTC Sunday update: Everything going as planned in the big picture We got the 1W50EMA retest and, consequently, the next leg up. Every previous time that we saw this structure, we made a new high so the trend signals a new ATH in the making. ↓ (1/5): Quote CrypNuevo @CrypNuevo · Mar 9, 2025 $BTC Sunday update: Are we in a ...
+- May 4, 2025 - https://x.com/CrypNuevo/status/1919096988219351339
+  - CrypNuevo @CrypNuevo · May 4, 2025 $BTC Sunday update: FOMC and Coinbase earnings... volatile week in the crypto market! Let's stick to easy tradeable triggers instead of speculating in advance to "what might or should happen". For example, these are safe entry setups if looking for shorts: ↓ (1/4): 71 111 1K 124K
+- May 1, 2025 - https://x.com/CrypNuevo/status/1917836887902871884
+  - CrypNuevo @CrypNuevo · May 1, 2025 $BTC update: Slow, choppy PA this week - and with today being a Bank Holiday, not expecting much more. I only managed to get a long from the 4h50EMA yesterday- took what I could, left the rest. On to the next. Video content on Youtube back from next weekit's been a while! Quote CrypNuevo @CrypNuevo · Apr 27, 2025 Replying t...
+- Apr 27, 2025 - https://x.com/CrypNuevo/status/1916583081986699564
+  - CrypNuevo @CrypNuevo · Apr 27, 2025 $BTC Sunday update: Interesting week ahead with earnings reports from Meta, Amazon & Apple, but also PCE inflation data and labour market data. I'll keep de-risking my swing long trade from $77k by continue taking profits in this current zone. Spot bags are fine. ↓ (1/4): 58 114 1K 105K
+- Apr 23, 2025 - https://x.com/CrypNuevo/status/1914813652479181275
+  - CrypNuevo @CrypNuevo · Apr 23, 2025 $BTC Sunday update completed For a couple weeks I've only mentioned that price would break to the upside from this EMA range targeting the liquidations above it located up to $93k. Not only that, I confidently positioned in favor to that idea since $77k. Feels good! 94 45 1K 55K
+- Apr 22, 2025 - https://x.com/CrypNuevo/status/1914670839141728512
+  - CrypNuevo @CrypNuevo · Apr 22, 2025 The $BTC Sunday update thesis is playing out 1D50EMA and 1W50EMA compression leading to a move up to hit the liquidations located between $87k and $93k. I've been building a strong long swing position since $77k which it's starting to pay off now- TPing gradually from now. Quote CrypNuevo @CrypNuevo · Apr 20, 2025 $BTC Sun...
+- Apr 20, 2025 - https://x.com/CrypNuevo/status/1914025329154548000
+  - CrypNuevo @CrypNuevo · Apr 20, 2025 $BTC Sunday update: Not much happened this week, but we got a lot more information to understand the next potential move in the market. Everything is aligning corrrectly. I'm paying attention to the EMAs (daily and weekly 50EMA), and their mid-range. Let's analyse: ↓ (1/6): 58 77 995 161K
+- Apr 13, 2025 - https://x.com/CrypNuevo/status/1911507273391981003
+  - CrypNuevo @CrypNuevo · Apr 13, 2025 $BTC Sunday update: Tariffs chaos and manipulation aside, there are some conclusive ideas and data to know and to be aware of this week. Let's focus on the liquidity and potential Price Action for the upcoming volatile days. More action incoming... ↓ (1/6): 55 94 1.1K 122K
+- Apr 6, 2025 - https://x.com/CrypNuevo/status/1908944603795116110
+  - CrypNuevo @CrypNuevo · Apr 6, 2025 Replying to @CrypNuevo In the meantime, it's likely that we retest the 1W50EMA again at some point. If we're going to retest it next week, then this is the only short triggerr I'll be paying attention to. Lose support > invalidate deviation idea > entry And I'd look for longs at the 1W50EMA again. 9 17 342 28K
+- Apr 6, 2025 - https://x.com/CrypNuevo/status/1908944596685439249
+  - CrypNuevo @CrypNuevo · Apr 6, 2025 $BTC Sunday update: With Trump's tariffs dumping the stock market, BTC is showing resilience. Is Bitcoin decoupling? or lagging behind? Probably none. It's simply consolidating right above the main bull market support after already correcting 30%. My 2 triggers↓ (1/5): 42 75 912 104K
+- Mar 30, 2025 - https://x.com/CrypNuevo/status/1906398277899006191
+  - CrypNuevo @CrypNuevo · Mar 30, 2025 $BTC Sunday update: Seeing some compression between the 1W50EMA and 1D50EMA which always leads to an aggressive move. It might take a bit more time based on previous cases. It's also quite common seeing multiple and consecutives retests of this bull market support. ↓ (1/5): 50 96 938 108K
+- Mar 23, 2025 - https://x.com/CrypNuevo/status/1903891608153792696
+  - CrypNuevo @CrypNuevo · Mar 23, 2025 $BTC Sunday update: Market sentiment has been restored after hitting the short liquidations at $87.1k. Now, it could be a good opportunity for the MM to shake out the market again. We may see a pullback from here over the next 1-2 weeks, a retrace of this recovery. ↓ (1/5): 32 72 944 119K
+- Mar 20, 2025 - https://x.com/CrypNuevo/status/1902526562714480957
+  - CrypNuevo @CrypNuevo · Mar 20, 2025 $BTC before vs after: We did it again... Another BTC Sunday update COMPLETED - $87.1k liquidation target hit. Feeling incredibly blessed to profit from this skill and occasionally share winning analyses with everyone for free hope you had a nice trading week too! 87 75 1.2K 96K
+- Mar 20, 2025 - https://x.com/CrypNuevo/status/1902499557805641740
+  - CrypNuevo @CrypNuevo · Mar 20, 2025 $BTC Sunday update completed > Choppy PA at the start of the week > Deviation below trendline to hit SLs > Push up after FOMC to hit liquidations Thank you for your support Quote CrypNuevo @CrypNuevo · Mar 16, 2025 Replying to @CrypNuevo Something like this is what makes more sense to me. Favoring higher prices next week o...
+- Mar 17, 2025 - https://x.com/CrypNuevo/status/1901669502959444110
+  - CrypNuevo @CrypNuevo · Mar 17, 2025 $BTC update: Some choppy PA at the start of the week We even got the deviation below the trendline and now pretty much waiting to see what unfolds over the next couple of days. FOMC is on Wednesday - slow today, but it's possible to see an anticipated move tomorrow. Quote CrypNuevo @CrypNuevo · Mar 16, 2025 Replying to @Cr...
+- Mar 16, 2025 - https://x.com/CrypNuevo/status/1901349905333166163
+  - CrypNuevo @CrypNuevo · Mar 16, 2025 Replying to @CrypNuevo Something like this is what makes more sense to me. Favoring higher prices next week overall unles this LTF uptrend breaks. A small deviation below this trendline would be ideal to hit longs' Stop-losses but they might do it later in the week instead. 6 17 508 159K
+- Mar 16, 2025 - https://x.com/CrypNuevo/status/1901349895245619574
+  - CrypNuevo @CrypNuevo · Mar 16, 2025 $BTC Sunday update: The 1W50EMA held as support and we got the expected bounce we could get a few more retests but it's looking structurally good so far. Invalidation is losing this level like in 2022 Q1. Let's focus on what it could happen in the week ahead: ↓ (1/5): 33 94 1K 73K
+- Mar 11, 2025 - https://x.com/CrypNuevo/status/1899377478801424851
+  - CrypNuevo @CrypNuevo · Mar 11, 2025 $BTC Sunday update completed One of my best works this cycle in such a difficult time in the market. The best feeling is being able to guide you correctly and for free through tough moments like this of uncertainty and chaos. Trust the system follow the liquidity Quote CrypNuevo @CrypNuevo · Mar 9, 2025 $BTC Sunday update:...
+- Mar 10, 2025 - https://x.com/CrypNuevo/status/1899188641055875330
+  - CrypNuevo @CrypNuevo · Mar 10, 2025 $BTC update: Nailed!! I don't even know what to say! Clearly in a new winning streak with the Sunday updates and it's becoming unreal. It was very difficult to analyse this week (took me 4 hours on Sunday), so I'm very happy with the outcome. Thanks for your support 132 61 1.3K 68K
+- Feb 23, 2025 - https://x.com/CrypNuevo/status/1893773990784839683
+  - CrypNuevo @CrypNuevo · Feb 23, 2025 $BTC Sunday update: Expecting a nice trading week due to a quiet economic calendar. I'll continue trading the range - looking for longs at the lows. I mapped out the main levels and triggers for my own trading. Let me share them with you: ↓ (1/6): 36 114 1K 108K
+- Feb 20, 2025 - https://x.com/CrypNuevo/status/1892523491204661293
+  - CrypNuevo @CrypNuevo · Feb 20, 2025 $BTC update: Great price action this week as we anticipated in the BTC Sunday update. Feels good to nail the charts again and sharing them with you in advance You can see how the 4H50EMA has been reclaimed so I just added size to my current position from $93.3k Quote CrypNuevo @CrypNuevo · Feb 19, 2025 $BTC update: Good re...
+- Jan 26, 2025 - https://x.com/CrypNuevo/status/1883576210552459504
+  - CrypNuevo @CrypNuevo · Jan 26, 2025 $BTC Sunday update: Important week ahead... first FOMC with Trump in the presidency (Wednesday). While looking for clues, I saw this: • Wicks to the upside but price not progressing any further at resistance. Reversal sign? Full analysis↓ (1/5): 35 58 763 87K
+- Jan 21, 2025 - https://x.com/CrypNuevo/status/1881743616386777481
+  - CrypNuevo @CrypNuevo · Jan 21, 2025 $BTC update: Another move nailed from $102.5k to $106k in 16 hours. Getting right the Sunday update wasn't enough so we also had to do a Tuesday update to get it right too New youtube video will be uploaded within 1 hour. I'll post link here. Thanks for your support Quote CrypNuevo @CrypNuevo · Jan 21, 2025 Replying to @Cr...
+- Jan 21, 2025 - https://x.com/CrypNuevo/status/1881482788790206561
+  - CrypNuevo @CrypNuevo · Jan 21, 2025 $BTC Tuesday update: Yes, you're reading it right, a Tuesday update too We've already squeezed all the trades from the Sunday update that got completed under 24 hours Just mapped out my new plans and got into a new position so let's talk about these 3 wicks, shall we? 25 47 754 77K
+- Jan 20, 2025 - https://x.com/CrypNuevo/status/1881291749361958995
+  - CrypNuevo @CrypNuevo · Jan 20, 2025 $BTC Sunday update nailed Only took 12 hours for this to happen: 1. Rebalanced by retesting the overextended 4h50EMA and reseting the liquidations Delta 2. Recovery of the top range quarter 3. Hit $108k & 109k liquidity spots from the orderbook Thanks for playing out Quote CrypNuevo @CrypNuevo · Jan 20, 2025 Replying to @C...
+- Jan 20, 2025 - https://x.com/CrypNuevo/status/1881102976757981199
+  - CrypNuevo @CrypNuevo · Jan 20, 2025 $BTC Sunday update: Our range strategy is playing out so well, we only focus longing level by level thanks to those support retests. Although markets are closed on Monday, we'll have a volatile week because the market will react to Trump's first week. My plan explained: 26 33 602 56K
+- Dec 29, 2024 - https://x.com/CrypNuevo/status/1873389857503952956
+  - CrypNuevo @CrypNuevo · Dec 29, 2024 $BTC Sunday update: There are 2 wicks to the downside; 2 problems. In terms of market efficiency, price should fill these imbalances (OI gaps) probably next week. I'm trading the HTF range with LTF executions, so I'll explain my plan for the week along my trade triggers : 24 77 867 169K
+- Dec 24, 2024 - https://x.com/CrypNuevo/status/1871332574481539176
+  - CrypNuevo @CrypNuevo · Dec 24, 2024 $BTC Caught today's bottom $92.7k with small size and shared my entry & risk management strategy with you in my free Telegram channel earlier. Not out the woods just yet but already profited this week thanks to the work from the BTC Sunday update https:// t.me/CrypNuevoTA Quote CrypNuevo @CrypNuevo · Dec 22, 2024 Replying ...
+- Dec 22, 2024 - https://x.com/CrypNuevo/status/1870845718388154677
+  - CrypNuevo @CrypNuevo · Dec 22, 2024 $BTC Sunday update: As discussed in the past weeks and also during Friday's stream, I think this is likely a sideways move (range) in a HTF uptrend. Meaning that we could continue ranging more, but eventually breaking out to the upside. Let's map out a LTF projection: 35 72 856 122K
+- Dec 16, 2024 - https://x.com/CrypNuevo/status/1868464404670390315
+  - CrypNuevo @CrypNuevo · Dec 16, 2024 $BTC update: Just 5 hours later... wow that was crazy fast! Short liquidations target hit Didn't expect it that fast at all, especially before weekly candle close so couldn't position in futures for this one. It's going to be an interesting week for sure Quote CrypNuevo @CrypNuevo · Dec 15, 2024 $BTC Sunday update: FOMC on...
+- Dec 15, 2024 - https://x.com/CrypNuevo/status/1868388736016515334
+  - CrypNuevo @CrypNuevo · Dec 15, 2024 $BTC Sunday update: FOMC on Wednesday so it's likely seeing a bit of chop until then. I'd like a retest of the 4h50EMA at some point this week, where I'd consider opening new longs if the retest is successful. Favoring higher prices for now so I keep looking for longs. 25 51 799 133K
+- Nov 26, 2024 - https://x.com/CrypNuevo/status/1861374640016289982
+  - CrypNuevo @CrypNuevo · Nov 26, 2024 $BTC HTF idea from last week BTC Sunday update: Playing out Possible support at $88k but likely and deepest pullback $85k low sweeps. "It'd make sense to spike up near $100k without fully reaching there, and then reverse down cause many new traders will FOMO. Easy preys." Quote CrypNuevo @CrypNuevo · Nov 21, 2024 $BTC upda...
+- Nov 25, 2024 - https://x.com/CrypNuevo/status/1861070285018927446
+  - CrypNuevo @CrypNuevo · Nov 25, 2024 $BTC update: We did it again boys, Sunday analysis nailed Now watching for either: A) Upside reaction from the trendline + 4h50EMA B) Failed support retest and drop to $88k Notice the sudden strength of altcoins in this drop - the real fun is about to begin. Quote CrypNuevo @CrypNuevo · Nov 24, 2024 $BTC Sunday update: Loo...
+- Nov 24, 2024 - https://x.com/CrypNuevo/status/1860629231358644346
+  - CrypNuevo @CrypNuevo · Nov 24, 2024 Replying to @CrypNuevo The way I'm trading this is by sticking to my BTC.D thesis that, perhaps, could be currently in play. We might have just hit the top. Therefore, I'll mainly focus on getting my last spot entries in different altcoins (I'll make a video about this topic next week). 12 7 273 27K
+- Nov 24, 2024 - https://x.com/CrypNuevo/status/1860629212027138413
+  - CrypNuevo @CrypNuevo · Nov 24, 2024 $BTC Sunday update: Looking for a pullback next week due to 2 main reasons: • 4h50EMA greatly overextended, should lead to contraction • Classic trendline play: slow ascend of price through it > fast leg up > retest trendline Both levels alligns together too. More below 45 64 903 193K
+- Nov 20, 2024 - https://x.com/CrypNuevo/status/1859188052825952689
+  - CrypNuevo @CrypNuevo · Nov 20, 2024 $BTC update: Our plan is so far playing out • Deviation at the start of the week • New ATH Not expecting to break $100k in the first attempt so looking for a reversal from mid-high $90ks, around $96k zone. Then, focus on the next buying opportunities during the pullback. Quote CrypNuevo @CrypNuevo · Nov 17, 2024 $BTC Sunda...
+- Nov 17, 2024 - https://x.com/CrypNuevo/status/1858200514061856782
+  - CrypNuevo @CrypNuevo · Nov 17, 2024 $BTC Sunday update: I'm giving my ideal trading scenario higher chances as time goes by... It'd be great to see an aggresive spike to $95k-96k over the coming week. In this analysis, I explain how I'll personally trade this if it actually happens... just so you know 65 132 1.4K 377K
+- Nov 16, 2024 - https://x.com/CrypNuevo/status/1857588853193789607
+  - CrypNuevo @CrypNuevo · Nov 16, 2024 $BTC Ideal projection is looking good, so far! Although we could see slower moves over the weekend, this could still be on the cards for next week. If so, it'd be a gift since I have very clear how I'd trade and profit from this Price Action. Talk on Sunday Quote CrypNuevo @CrypNuevo · Nov 14, 2024 $BTC Not necessarily wha...
+- Oct 30, 2024 - https://x.com/CrypNuevo/status/1851715403350765745
+  - CrypNuevo @CrypNuevo · Oct 30, 2024 $BTC I’m neither a bull nor a bear; I trade the market in both directions. You saw my bullish outlook in the BTC Sunday update, driven by solid reasons. And last night was the opposite, I publicly built a day-trade short at the highs - current local top - which I'm now taking Show more 51 30 746 57K
+- Oct 28, 2024 - https://x.com/CrypNuevo/status/1850998238771626401
+  - CrypNuevo @CrypNuevo · Oct 28, 2024 $BTC Liquidations between $69.4k and $70k hit!! It seems that all the market needed was a bullish CrypNuevo on the BTC Sunday update This is the best PA you're going to see this week, the next days will be quite choppy I think. Quote CrypNuevo @CrypNuevo · Oct 28, 2024 $BTC First move of the week caught correctly... push u...
+- Oct 27, 2024 - https://x.com/CrypNuevo/status/1850573875241013389
+  - CrypNuevo @CrypNuevo · Oct 27, 2024 $BTC Sunday update: The week ahead will be one of the hardest trading weeks of the year: • Tue: Google earnings • Wed: Microsoft & Meta earnings • Thu: Apple & Amazon earnings • Fri: NFP labor market data This is my plan : 32 133 1.1K 168K
+- Oct 27, 2024 - https://x.com/CrypNuevo/status/1850539805492322314
+  - CrypNuevo @CrypNuevo · Oct 27, 2024 $BTC A couple before & after charts since my last Youtube video... This is the 1D & 4h time frames: So far we've probably seen a support retest in the daily, and we have a potential continuation of a W pattern leg up in the 4h time frame. New Youtube video next week? 46 49 800 53K
+- Sep 29, 2024 - https://x.com/CrypNuevo/status/1840431395870474337
+  - CrypNuevo @CrypNuevo · Sep 29, 2024 $BTC Sunday update: Let's keep it simple... this is the current market structure and we still need to break 2 resistances to have full confidence in a ATH. Until then... it's still a traders' market. This is how I'm trading this week : 37 91 1K 136K
+- Sep 22, 2024 - https://x.com/CrypNuevo/status/1837843512684855784
+  - CrypNuevo @CrypNuevo · Sep 22, 2024 $BTC Sunday update: Starting to see some signs that momentum could be shifting. Wicks to the upside but price not progressing any further can be a sign of building shorts. However, there is also a good reason to support a push to $66k. These are my 2 trading triggers: 48 94 786 100K
+- Sep 15, 2024 - https://x.com/CrypNuevo/status/1835322818776485960
+  - CrypNuevo @CrypNuevo · Sep 15, 2024 $BTC Sunday update: Big week ahead - FOMC meeting on Wednesday. I'm leaning towards the idea of price forming a range here with a few deviations/traps until then. Let me explain why I think we could see a spike to $61.6k ish before dropping later on the week. 60 152 1K 139K
+- Sep 14, 2024 - https://x.com/CrypNuevo/status/1834908165991022713
+  - CrypNuevo @CrypNuevo · Sep 14, 2024 To-do list for the weekend • If you trade, trade altcoins • If you trade BTC, take profits quickly • On Saturday, analyse your past trades of the week • On Sunday, analyse the trading week ahead Personally, not in a trade right now, all TPs hit: https:// t.me/CrypNuevoTA 18 28 298 21K
+- Aug 27, 2024 - https://x.com/CrypNuevo/status/1828203528667455667
+  - CrypNuevo @CrypNuevo · Aug 27, 2024 $BTC Sunday update playing out Today's PA is unbearable. And it's not even consolidation but just some really slow bleeding and not much else. MM stopped short positions first, and now hitting long liquidations. I'll update as soon as price stabilises and I see new trades Quote CrypNuevo @CrypNuevo · Aug 25, 2024 Replying ...
+- Aug 25, 2024 - https://x.com/CrypNuevo/status/1827687057210192355
+  - CrypNuevo @CrypNuevo · Aug 25, 2024 $BTC Sunday update: We have a nice trading week ahead - economic calendar is quiet. Liquidity targets, like this wick in the 15min time frame, and PA patterns will dominate the market this week. So let's find key levels and a new projection 21 49 703 129K
+- Aug 22, 2024 - https://x.com/CrypNuevo/status/1826657448117088371
+  - CrypNuevo @CrypNuevo · Aug 22, 2024 $BTC update: I covered yesterday the FOMC Minutes notes and quickly anticipated a LTF move back to $61.5k. We're at the highs of the Sunday update (resistance) and breaking above the daily 50EMA will invalidate this projection. Jackson Hole tomorrow on: https:// t.me/CrypNuevoTA 16 19 340 39K
+- Aug 21, 2024 - https://x.com/CrypNuevo/status/1826188307513946455
+  - CrypNuevo @CrypNuevo · Aug 21, 2024 $BTC update: Asian pump fully retraced and back inside the channel when the market sentiment was bullish. Like or not, this is how the market works and I can (sometimes) anticipate these moves because human psychology doesn't change. The MM trapped retail traders once again. Quote CrypNuevo @CrypNuevo · Aug 20, 2024 $BTC u...
+- Aug 20, 2024 - https://x.com/CrypNuevo/status/1825832268083994833
+  - CrypNuevo @CrypNuevo · Aug 20, 2024 $BTC update: I'm watching the projection from the Sunday update. Let's see if this turns out to be a deviation, which it's quite possible considering that Asia pumped. Safe trigger for a short would be dropping back inside the channel, then maybe consolidation before the drop. Quote CrypNuevo @CrypNuevo · Aug 18, 2024 $BTC...
+- Aug 18, 2024 - https://x.com/CrypNuevo/status/1825177302927323622
+  - CrypNuevo @CrypNuevo · Aug 18, 2024 Replying to @CrypNuevo Now let's analyse LTF for the week ahead: Most retail will be paying attention to and trading this channel; thus, we could see some manipulation from the Market Maker here. We could see a fake-out above it at the start of the week to then drop to that new wick at $56k. 6 18 248 27K
+- Aug 18, 2024 - https://x.com/CrypNuevo/status/1825177287685500936
+  - CrypNuevo @CrypNuevo · Aug 18, 2024 $BTC Sunday update: A very interesting week of the year... Jackson Hole on Friday! Jerome Powell will speak (and give clues) so there will be a lot of volatility, it happens every year. Meanwhile, we have a couple wicks to fill - both to the downside. This is what I expect: 43 124 1.1K 436K
+- Jul 7, 2024 - https://x.com/CrypNuevo/status/1809982583381413974
+  - CrypNuevo @CrypNuevo · Jul 7, 2024 Replying to @CrypNuevo We anticipated this first week of July to be a volatile week and it was. But the week ahead can also be very volatile for one reason: CPI data and its consequences. I wrote an explanation about this, from my point of view, in case you're interested to know what I mean exactly: 4 4 144 28K
+- Jul 7, 2024 - https://x.com/CrypNuevo/status/1809982574967550214
+  - CrypNuevo @CrypNuevo · Jul 7, 2024 $BTC Sunday update: I'll be very clear: there is a wick in the 1D time frame that it's very likely to get filled. That's my main concern atm. We can also talk about how the drop was primarily manipulated by governments & Mt.Gox selling news. But let's analyse what's next: 40 63 726 252K
+- Jul 3, 2024 - https://x.com/CrypNuevo/status/1808438523457859586
+  - CrypNuevo @CrypNuevo · Jul 3, 2024 $BTC update: Our projection from the Sunday update is playing out so far We're forming a range here and the probability of not filling at least the 50% of the wick is very low. Volatile week... two 5% moves within 3 days. And we still got NFP and unemployment rate on Friday. Quote CrypNuevo @CrypNuevo · Jun 30, 2024 $BTC Su...
+- Jan 7, 2024 - https://x.com/CrypNuevo/status/1744046450718450061
+  - CrypNuevo @CrypNuevo · Jan 7, 2024 $BTC Sunday update: Big week ahead... ETF is around the corner. Big boy Blackrock says Wednesday Personally, I am NOT expecting a sell the news event because "sell the news" chatter is getting very loud. However, I think that we could see a quick last flush before the pump. 24 53 570 84K
+- Jan 5, 2024 - https://x.com/CrypNuevo/status/1743103872397373914
+  - CrypNuevo @CrypNuevo · Jan 5, 2024 $BTC New wick down... Just re-entered at the same level. Expecting price to reach $42.9k today where I will take most profits. Then a weekend range around $43k and the wick from yesterday ($41.7k) getting filled next week. I will post update at NY session 32 52 490 71K
+- Jan 14, 2024 - https://x.com/CrypNuevo/status/1746522332834001325
+  - CrypNuevo @CrypNuevo · Jan 14, 2024 $BTC Sunday update: After a successful weekend trading longs in altcoins, now I need to be patient again. The current trend in LTF is to the downside. I'm waiting for a reversal. We have a wick to the downside and it will get filled. Potential reversal there, if not next wick. 26 60 665 146K
+- Jan 21, 2024 - https://x.com/CrypNuevo/status/1749166870744174940
+  - CrypNuevo @CrypNuevo · Jan 21, 2024 $BTC Sunday update: Technical structure is still intact. We filled the wick and swept the lows. Now we're holding above it which it's a good sign. I'm going to describe what I think it's more likely to happen next in both LTF and HTF. Remember, it's a game of probabilities... 25 48 511 106K
+- Jan 15, 2024 - https://x.com/CrypNuevo/status/1746954426152038875
+  - CrypNuevo @CrypNuevo · Jan 15, 2024 $BTC We got the move down that we expected for today. We could only favor higher prices if we saw a (false) drop on Monday. I'm in btw. Because, ideally, we should see NY and/or Asia sending this higher... we don't want to see much consolidation after filling the wick. Quote CrypNuevo @CrypNuevo · Jan 14, 2024 $BTC Sunday ...
+- Feb 5, 2024 - https://x.com/CrypNuevo/status/1754284205935145376
+  - CrypNuevo @CrypNuevo · Feb 5, 2024 $BTC Sunday update: HTF $40k-$45k consolidation is still taking place, and the wave up from previous LTF analysis is finished. Now, we're back to a neutral price zone and a new analysis is needed for me to know how I want to play the current Price Action. 1/4 28 42 495 70K
+- Feb 11, 2024 - https://x.com/CrypNuevo/status/1756772994234363943
+  - CrypNuevo @CrypNuevo · Feb 11, 2024 $BTC Sunday update: We're currently seeing the scenario that I mentioned on the last post playing out. Consolidation around the 50% of the wick over the weekend means that we should fill the 100% of the wick at $49k. Let's go through all the details: 1/5 17 40 595 173K
+- Feb 9, 2024 - https://x.com/CrypNuevo/status/1756025362478248145
+  - CrypNuevo @CrypNuevo · Feb 9, 2024 $BTC 50% of the wick filled If we don't dump now and we consolidate around the 50% of the wick over the weekend, then at the start of next week we'll see the 100% of the wick getting filled. 27 35 547 47K
+- Feb 18, 2024 - https://x.com/CrypNuevo/status/1759302955126133085
+  - CrypNuevo @CrypNuevo · Feb 18, 2024 $BTC Sunday update: It's time to trade a new range after a strong 7 days uptrend (Wed 7th Feb - Wed 14th Feb). We anticipated a range to form at this level and in the next tweet I'll explain why; what are the next levels of interest; and a potential PA plan for the week. 1/ 17 24 373 58K
+- Feb 26, 2024 - https://x.com/CrypNuevo/status/1761894084451397928
+  - CrypNuevo @CrypNuevo · Feb 26, 2024 $BTC Sunday update: It's going to be a very interesting week. I personally don't remember seeing the 7 days liquidation heatmap like this before. Traders have already chosen their swing trades and there are liquidations at both sides of the range. A bit dangerous... 1/4 15 28 476 98K
+- Mar 18, 2024 - https://x.com/CrypNuevo/status/1769492455345242432
+  - CrypNuevo @CrypNuevo · Mar 18, 2024 $BTC Sunday update: Our liquidation level $74.7k was hit in Binance futures ($75k) on Wednesday and then price dropped 13%. Next Wednesday is going to be an interesting day because we have FOMC with a new dot-plot. Let's talk about it and about Bitcoin's possible moves: 1/5 36 63 936 315K
+- Mar 24, 2024 - https://x.com/CrypNuevo/status/1771986964704559278
+  - CrypNuevo @CrypNuevo · Mar 24, 2024 $BTC Sunday update: It seems that scenario 1 is playing out with that potential HL and change of structure - from bearish to bullish. We'll be able to confirm this once the 4h50EMA is cleared out. Then we'll see the path much clearer. Let's dicuss this further: 1/ 25 31 481 62K
+- Mar 20, 2024 - https://x.com/CrypNuevo/status/1770552211178668389
+  - CrypNuevo @CrypNuevo · Mar 20, 2024 $BTC Plan from the Sunday update is playing out We saw a little deviation below support and today's boring FOMC cleared the path from any possible bearish outcome. Looking good and I'd like to see a test of the 4h50EMA as support next. Quote CrypNuevo @CrypNuevo · Mar 19, 2024 $BTC 4hEMA rejection and new lower low Now we'...
+- Mar 31, 2024 - https://x.com/CrypNuevo/status/1774517885706051759
+  - CrypNuevo @CrypNuevo · Mar 31, 2024 $BTC Sunday update: The plan is still playing out but we're going to extend the analysis today and re-evaluate risks and opportunities. I feel like we're going to have a very tricksy week of Price Action since there will be a lot of economic data coming out. Expect some traps. 19 20 356 42K
+- Apr 7, 2024 - https://x.com/CrypNuevo/status/1777055155491357169
+  - CrypNuevo @CrypNuevo · Apr 7, 2024 $BTC Sunday update: The long from $65k from Tuesday is playing out very well. We just got back inside the range and we're heading towards the range highs where I expect to take profits again. By then, I'll have TP'ed 75% (total) of my position... but why not the 100%? 1/4 17 21 376 99K
+- Apr 6, 2024 - https://x.com/CrypNuevo/status/1776566809014976596
+  - CrypNuevo @CrypNuevo · Apr 6, 2024 $ETH potential W formation next week: For that to happen, I would need to see daily candles closing above $3340 to recover the daily 50EMA and stop the downside momentum. 23 26 373 73K
+- Apr 14, 2024 - https://x.com/CrypNuevo/status/1779590866694209796
+  - CrypNuevo @CrypNuevo · Apr 14, 2024 $BTC Sunday update: Very difficult week ahead and - sadly - I have no choice but to match Technical Analysis (TA) and Geopolitics. Israel just announced that will strike back Iran on Monday/Tuesday. How will this affect the stock market, Bitcoin, and other markets next week? 37 54 582 183K
+- Apr 8, 2024 - https://x.com/CrypNuevo/status/1777283883706265786
+  - CrypNuevo @CrypNuevo · Apr 8, 2024 $ETH Projection completed too No much to say here. Clear W formation, and we had a very simple clear trigger: recovering the 4h50EMA and then we could see ETH going up this week. Trust the system Quote CrypNuevo @CrypNuevo · Apr 6, 2024 $ETH potential W formation next week: For that to happen, I would need to see daily cand...
+- Apr 8, 2024 - https://x.com/CrypNuevo/status/1777276420768588190
+  - CrypNuevo @CrypNuevo · Apr 8, 2024 $BTC Projection completed It was a natural Price Action move: shake-out, go back to range lows, break resistance, now you have a stronger support and push to range highs. 75% of my position closed from $65k (25% at $67777, 50% now at range highs). Riding the rest to $74k. Quote CrypNuevo @CrypNuevo · Apr 7, 2024 $BTC Sunday...
+- Apr 21, 2024 - https://x.com/CrypNuevo/status/1782095246903349254
+  - CrypNuevo @CrypNuevo · Apr 21, 2024 $BTC Sunday update: I'm anticipating a good trading week ahead thanks to a quieter economic calendar and an international conflict that is not escalating any further so far. We have a clear structure in play: a range. Let's figure out what it's more likely to happen next: 22 50 662 171K
+- Apr 19, 2024 - https://x.com/CrypNuevo/status/1781259685116461298
+  - CrypNuevo @CrypNuevo · Apr 19, 2024 $BTC Projection completed At resistance right now, waiting for new setups to develop. Probably no more high probability trades in Bitcoin until next week. Stay tuned for the next Sunday update Quote CrypNuevo @CrypNuevo · Apr 17, 2024 Replying to @CrypNuevo Visual representation of the ideas: 19 20 365 51K
+- Apr 28, 2024 - https://x.com/CrypNuevo/status/1784618738022555760
+  - CrypNuevo @CrypNuevo · Apr 28, 2024 $BTC Sunday update: FOMC and NFP next week - big week ahead. We could see a big move, so I'm going to show you my triggers. We're still in a range, in a zone where I have no interest in going long or short in the absence of high probability trades. But this could change soon 17 49 587 147K
+- May 5, 2024 - https://x.com/CrypNuevo/status/1787183288878084146
+  - CrypNuevo @CrypNuevo · May 5, 2024 $BTC Sunday update: We had a good week. I'm feeling blessed for having understood and shared the FOMC manipulation idea with you all in advance. - Before FOMC: Drop & price-in bearish FOMC - After FOMC: Theory of Contrary Opinion & pump I expect clean Price Action next week 22 37 462 71K
+- May 12, 2024 - https://x.com/CrypNuevo/status/1789711411221823802
+  - CrypNuevo @CrypNuevo · May 12, 2024 Replying to @CrypNuevo So far, $BTC is following the projection from our last Sunday update. Now, this doesn't mean that it'll continue playing out, but it definetely supports the possibility for this idea to play out. Range lows are acting as support after a deviation which is a good sign. 2 4 126 9.9K
+- May 12, 2024 - https://x.com/CrypNuevo/status/1789711407325266419
+  - CrypNuevo @CrypNuevo · May 12, 2024 $BTC Sunday update: Difficult trading week ahead. With all the inflation data coming, I have the feeling that we'll just push towards one direction in an aggresive way. Perhaps I'll be wrong here, this is merely based on just instinct. But let's have a look at the details 25 45 506 117K
+- May 19, 2024 - https://x.com/CrypNuevo/status/1792287917856928134
+  - CrypNuevo @CrypNuevo · May 19, 2024 $BTC Sunday update: Bitcoin is working its way towards this HTF liquidation zone centered around $69k. However, it's common to see "liquidity runs" before hitting important liquidation zones, with the simple intention to gather even more liquidity. Let's talk about it 32 39 561 101K
+- May 26, 2024 - https://x.com/CrypNuevo/status/1794797347786109285
+  - CrypNuevo @CrypNuevo · May 26, 2024 Replying to @CrypNuevo I think that we have a favorable trading week ahead, since there won't be any decisive economic data. We could see a move down to test again the 4h 50EMA as support. The 2nd level is right below it: the Liquidity Pool where we could form a W pattern. I'll be looking for longs. 8 8 136 12K
+- May 26, 2024 - https://x.com/CrypNuevo/status/1794797340743622730
+  - CrypNuevo @CrypNuevo · May 26, 2024 $BTC Sunday update: If we pay attention to details, we can notice that this move up is NOT finished After the deviation from the range lows, we expected a support retest. Then, the next natural target is the range highs. But they didn't hit the range highs for just $800. 29 27 527 72K
+- May 20, 2024 - https://x.com/CrypNuevo/status/1792627918708810064
+  - CrypNuevo @CrypNuevo · May 20, 2024 $BTC Feeling blessed for having understood the psychology of this move We, as a community, go a step further by trying to think like the MM so we can jump on their trades. It works. Thank you for reading again the Sunday updates. Hope they continue playing out! Quote CrypNuevo @CrypNuevo · May 19, 2024 Replying to @CrypNue...
+- Jun 2, 2024 - https://x.com/CrypNuevo/status/1797329567398416690
+  - CrypNuevo @CrypNuevo · Jun 2, 2024 $BTC Sunday update: 3 months inside this range already. Currently at mid-range and NFP on Friday. Volatile week ahead! - What is more likely to happen next? - Is it more likely reaching range highs or range lows from here? Let's analyse it and talk about it: 23 31 554 102K
+- May 28, 2024 - https://x.com/CrypNuevo/status/1795516387479425192
+  - CrypNuevo @CrypNuevo · May 28, 2024 $BTC Yesterday I'd have said that the 2nd projection from the Sunday update was unlikely or less probable to happen. I didn't think there was enough liquidity to want to pull this move tbh. But the volatility is here! If we recover the 4h 50EMA, I think this will play out. Quote CrypNuevo @CrypNuevo · May 26, 2024 Replying...
+- May 27, 2024 - https://x.com/CrypNuevo/status/1795119310161039484
+  - CrypNuevo @CrypNuevo · May 27, 2024 $BTC Sunday update from yesterday playing out so far! What in earth is going on in the last 2 years? Sometimes I wonder if this is real, if any of this is real. But I guess all the hours of work and effort are simply just paying out 42 20 568 43K
+- Jun 9, 2024 - https://x.com/CrypNuevo/status/1799875796959465929
+  - CrypNuevo @CrypNuevo · Jun 9, 2024 $BTC Sunday update: Big week ahead: CPI, PPI and FOMC with dot-plot. But let's not forget that when economic data shakes the market, those moves tend to get retraced later on. And we have this same case with the NFP's move 2 days ago. Will we retrace the NFP move before FOMC? 31 37 546 90K
+- Jun 16, 2024 - https://x.com/CrypNuevo/status/1802386099529982365
+  - CrypNuevo @CrypNuevo · Jun 16, 2024 $BTC Sunday update: When we are in a range, like now, the small details matter a lot because they can give us important clues. And that's why I'm trying to find the footprints of the Market Maker. Is this drop a "liquidity run" or is it a real LTF trend? Let's analyse it: 28 54 759 197K
+- Jun 23, 2024 - https://x.com/CrypNuevo/status/1804970710240256465
+  - CrypNuevo @CrypNuevo · Jun 23, 2024 $BTC Sunday update: The charts are setting up for a potential short squeeze. Short squeezes are risky because they can be profitable, but they can also lead to losses if you don't see them coming. This is why I like to warn you whenever I see a possibility for it to happen 20 38 497 103K
+- Jun 30, 2024 - https://x.com/CrypNuevo/status/1807433969555656746
+  - CrypNuevo @CrypNuevo · Jun 30, 2024 Replying to @CrypNuevo So I finally came up with this projection: Not necessarily for the week ahead, the time frame is more like 2-3 weeks. Impulsive move up to liquidate high leverage short positions, and then drop back down to fill the 50% of the wick. Forming a potential accumulation range. 9 9 207 16K
+- Jun 30, 2024 - https://x.com/CrypNuevo/status/1807433958096802070
+  - CrypNuevo @CrypNuevo · Jun 30, 2024 $BTC Sunday update: We'll have a volatile week ahead. The market will react to the MiCA regulation and all the economic data (NFP, Unemployment Rate, FOMC Minutes,etc). However, Bitcoin is already giving us a few signs of what is likely to happen next. Let's analyse it: 43 79 848 310K
+- Jul 14, 2024 - https://x.com/CrypNuevo/status/1812511111427629149
+  - CrypNuevo @CrypNuevo · Jul 14, 2024 $BTC Sunday update: Bitcoin reached the previous range lows this week as we've been anticipating. Now, there are only 2 very different possible scenarios. Is this a resistance retest before a new leg down or... are we going to reclaim the range? Le'ts analyse it here! 26 53 531 65K
+- Jul 10, 2024 - https://x.com/CrypNuevo/status/1811019364063236238
+  - CrypNuevo @CrypNuevo · Jul 10, 2024 $BTC update + Before vs After from Sunday update Price succesfullly moved towards the 1D wick at the start of the week, and filled the 50%. Then we got the bounce, hit the liquidations at $59.2k and we're currently in a strong resistance zone between $59k-$61k. CPI tomorrow 14 28 343 30K
+- Jul 8, 2024 - https://x.com/CrypNuevo/status/1810276690779631965
+  - CrypNuevo @CrypNuevo · Jul 8, 2024 $BTC update: 50% of the wick filled + bounce! Good start of the week so far. If we manage to hold this low until Thursday, I'll suspect that they might have a good CPI surprise prepared for us. We'll see. You can trade here to access the Indicator: https:// bingx.com/en-us/invite/2 EEZUPQXM/ … Quote CrypNuevo @CrypNuevo · J...
+- Mar 9, 2025 - https://x.com/CrypNuevo/status/1898815785990336932
+  - CrypNuevo @CrypNuevo · Mar 9, 2025 $BTC Sunday update: Are we in a bear market now? Simply no. There isn't enough confluence to confirm that at all. We're filling the long wick as anticipated last week, and this could simply be a retest of the 1W50EMA - one of the best bull/bear market indicators. ↓ (1/6): 68 170 1.5K 392K
+- unknown date - https://x.com/CrypNuevo/status/1898815785990336932/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: Are we in a bear market now? Simply no. There isn't enough confluence to confirm that at all. We're filling the long wick as anticipated last week, and this could simply be a retest of the 1W50EMA - one of the best bull/bear market indicators. ↓ (1/6): 9:18 PM · Mar 9, 2025 · 392.5K Views 68 170 1.5K 355 Relevant View...
+- Mar 2, 2025 - https://x.com/CrypNuevo/status/1896661083760595141/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: Projection from the Sunday update playing out so far We got the rejection at resistance (1D50EMA), also the drop below range lows which opened the path to more downside. We just filled both the new CME gap and 50% of 1W wick that I was worried about yesterday. Quote CrypNuevo @CrypNuevo · Mar 2, 2025 Replying to @CrypNuevo W...
+- Mar 2, 2025 - https://x.com/CrypNuevo/status/1896255316787876157
+  - CrypNuevo @CrypNuevo · Mar 2, 2025 $BTC Sunday update: Volatile week ahead and I love that. Trump just announced the Crypto Strategic Reserve right above the most important bull market support. We might correct again but bottom is in, in that $76k-$78k zone. Glad to have loaded up $SOL , $ETH , etc. ↓ (1/6): 35 76 997 99K
+- unknown date - https://x.com/CrypNuevo/status/1896255316787876157/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: Volatile week ahead and I love that. Trump just announced the Crypto Strategic Reserve right above the most important bull market support. We might correct again but bottom is in, in that $76k-$78k zone. Glad to have loaded up $SOL , $ETH , etc. ↓ (1/6): 7:44 PM · Mar 2, 2025 · 99.1K Views 35 76 997 140 Relevant View ...
+- Mar 2, 2025 - https://x.com/CrypNuevo/status/1896237792768020969
+  - CrypNuevo @CrypNuevo · Mar 2, 2025 $BTC Sunday update will be posted shortly 1 1 18 1.5K
+- Feb 17, 2025 - https://x.com/CrypNuevo/status/1891274432611512340
+  - CrypNuevo @CrypNuevo · Feb 17, 2025 $BTC Sunday update: We should have a nice trading week ahead thanks to a quiet economic calendar. Only remember that Monday is US Bank Holiday so could be a longer weekend. I mapped out the main levels and triggers for my own trading. Let me share them with you: ↓ (1/5): 32 67 842 80K
+- unknown date - https://x.com/CrypNuevo/status/1891274432611512340/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: We should have a nice trading week ahead thanks to a quiet economic calendar. Only remember that Monday is US Bank Holiday so could be a longer weekend. I mapped out the main levels and triggers for my own trading. Let me share them with you: ↓ (1/5): 1:52 AM · Feb 17, 2025 · 80.7K Views 32 67 842 102 Relevant View qu...
+- Feb 11, 2025 - https://x.com/CrypNuevo/status/1889743549454856637/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: We did it again...! Perfect bounce from our level and trade going as planed. Let's see what follows from here but now I'd like to see continuation to $100k psychological level + liquidations/stops Quote CrypNuevo @CrypNuevo · Feb 11, 2025 $BTC update: Choppy PA as expected until CPI tomorrow. Liquidations in both sides; thin...
+- unknown date - https://x.com/CrypNuevo/status/1889405465953460261/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: Choppy PA as expected until CPI tomorrow. Liquidations in both sides; thinking of downside first as in the Sunday update, also wouldn't surprise me to reclaim $100k this week. Difficult week to trade for sure, very slow so far, but volatility should come in soon 10:05 PM · Feb 11, 2025 · 130.6K Views 38 66 870 70 Relevant Vi...
+- Feb 10, 2025 - https://x.com/CrypNuevo/status/1888731931795210534
+  - CrypNuevo @CrypNuevo · Feb 10, 2025 $BTC Sunday update: Slow moves in the past 4 days which was normal in order to fill most wicks. I think this week we could see some more volatility due to Wednesday's CPI, so we could see the real move of the week after that event. ↓ (1/5): 20 49 662 60K
+- unknown date - https://x.com/CrypNuevo/status/1888731931795210534/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: Slow moves in the past 4 days which was normal in order to fill most wicks. I think this week we could see some more volatility due to Wednesday's CPI, so we could see the real move of the week after that event. ↓ (1/5): 1:29 AM · Feb 10, 2025 · 60.4K Views 20 49 662 64 Relevant View quotes
+- unknown date - https://x.com/CrypNuevo/status/1887119509510619448/photo/1
+  - CrypNuevo @CrypNuevo As a continuation to this post... It has already filled 30% of the wick in just the first day. But I don't think that it'll get filled 50% this week since we're also creating one in the 1W tf. Probably from next week onwards, so I'll be looking for new short entries higher. 2:42 PM · Feb 5, 2025 · 36.4K Views 20 12 349 52 Relevant
+- Sep 15, 2024 - https://x.com/CrypNuevo/status/1887110056031686738/photo/1
+  - CrypNuevo @CrypNuevo He charges $1490 per suscription in his paid group. His paid group is formed by 4 channels. 1 of those channels copy-pastes my charts shamelessly. He only changes the name from BTC Sunday update to BTC Sunday report and done. Example: Quote CrypNuevo @CrypNuevo · Sep 15, 2024 $BTC Sunday update: Big week ahead - FOMC meeting on Wednesday...
+- Feb 5, 2025 - https://x.com/CrypNuevo/status/1887119509510619448
+  - CrypNuevo @CrypNuevo · Feb 5, 2025 As a continuation to this post... It has already filled 30% of the wick in just the first day. But I don't think that it'll get filled 50% this week since we're also creating one in the 1W tf. Probably from next week onwards, so I'll be looking for new short entries higher. 20 12 349 36K
+- Feb 2, 2025 - https://x.com/CrypNuevo/status/1886302969722753325/photo/1
+  - CrypNuevo @CrypNuevo $BTC Damn... look at that, that was fast. The problem of the 3 wicks is solved If anything, I'm happy to have posted a very bearish Sunday update 7 hours before it happened, I know it served as a warning to many of you. Quote CrypNuevo @CrypNuevo · Feb 2, 2025 $BTC Sunday update: The problem of the 3 wicks is resolving. As explained in m...
+- Feb 2, 2025 - https://x.com/CrypNuevo/status/1886136109228249308
+  - CrypNuevo @CrypNuevo · Feb 2, 2025 $BTC Sunday update: The problem of the 3 wicks is resolving. As explained in my last video (11 days ago), all I was looking for was swing shorts at the range highs, from the uspide wick, targetting the 2 lower wicks. We'll potentially fill the wick at range lows. ↓ (1/5): 27 81 809 154K
+- Feb 2, 2025 - https://x.com/CrypNuevo/status/1886136120292819135
+  - CrypNuevo @CrypNuevo · Feb 2, 2025 The good thing is that this week we're creating a CME gap at $102k. Most CME gaps tend to get filled too, so could be taken as a sign that we'll eventually go back to those highs. There is also a CME gap lower, I'll make a video about these gaps next week 8 13 312 28K
+- unknown date - https://x.com/CrypNuevo/status/1886136120292819135/photo/1
+  - CrypNuevo @CrypNuevo The good thing is that this week we're creating a CME gap at $102k. Most CME gaps tend to get filled too, so could be taken as a sign that we'll eventually go back to those highs. There is also a CME gap lower, I'll make a video about these gaps next week 9:34 PM · Feb 2, 2025 · 28.8K Views 8 13 312 15 Relevant View quotes
+- unknown date - https://x.com/CrypNuevo/status/1886136109228249308/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: The problem of the 3 wicks is resolving. As explained in my last video (11 days ago), all I was looking for was swing shorts at the range highs, from the uspide wick, targetting the 2 lower wicks. We'll potentially fill the wick at range lows. ↓ (1/5): 9:34 PM · Feb 2, 2025 · 154.6K Views 27 81 809 108 Relevant View q...
+- Jan 12, 2025 - https://x.com/CrypNuevo/status/1878551869569528195
+  - CrypNuevo @CrypNuevo · Jan 12, 2025 $BTC Sunday update: Range trading environment which is something I personally love as a day-trader. There should be some volatility from Wednesday (CPI data), so looking forward to this week! Just mapped out my 2 triggers so let me share my analysis with you: 27 66 810 70K
+- unknown date - https://x.com/CrypNuevo/status/1878551869569528195/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: Range trading environment which is something I personally love as a day-trader. There should be some volatility from Wednesday (CPI data), so looking forward to this week! Just mapped out my 2 triggers so let me share my analysis with you: 11:17 PM · Jan 12, 2025 · 70.9K Views 27 66 810 88 Relevant View quotes
+- Jan 5, 2025 - https://x.com/CrypNuevo/status/1876680820322099478/photo/1
+  - CrypNuevo @CrypNuevo $BTC “However, I have this intuitive feeling that we could see a deviation next week” Ok, I've called a deviation in advance even before the breakout happened. Perhaps it's time to touch some grass, guys Quote CrypNuevo @CrypNuevo · Jan 5, 2025 $BTC Sunday update: We've already been playing this $90k-$100k range for a few weeks and it wi...
+- Jan 5, 2025 - https://x.com/CrypNuevo/status/1875979869789601900
+  - CrypNuevo @CrypNuevo · Jan 5, 2025 $BTC Sunday update: We've already been playing this $90k-$100k range for a few weeks and it will remain that way until it breaks. However, I have this intuitive feeling that we could see a deviation next week - it's a risky take, I know. Let me share my thoughts with you: 35 61 854 153K
+- Jan 5, 2025 - https://x.com/CrypNuevo/status/1875979872881013058
+  - CrypNuevo @CrypNuevo · Jan 5, 2025 Something like this is what it's on my mind for next week. I'd like to see a drop to the 4h50EMA in the next 24 hours because we haven't retested it yet since breaking above it. If we see acceptance above it after being retested, then that's my Monday's false move long trigger. 3 5 240 19K
+- Jan 5, 2025 - https://x.com/CrypNuevo/status/1875979879365386698
+  - CrypNuevo @CrypNuevo · Jan 5, 2025 Events for the week ahead: • FOMC Minutes (Wed) • Labour Market data (Fri) I'll analyse these and also post some Short videos charting in my free Telegram channel, feel free to join: https:// t.me/CrypNuevoTA 4 6 223 26K
+- unknown date - https://x.com/CrypNuevo/status/1875979872881013058/photo/1
+  - CrypNuevo @CrypNuevo Something like this is what it's on my mind for next week. I'd like to see a drop to the 4h50EMA in the next 24 hours because we haven't retested it yet since breaking above it. If we see acceptance above it after being retested, then that's my Monday's false move long trigger. 8:57 PM · Jan 5, 2025 · 19.8K Views 3 5 240 9 Relevant
+- unknown date - https://x.com/CrypNuevo/status/1875979869789601900/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: We've already been playing this $90k-$100k range for a few weeks and it will remain that way until it breaks. However, I have this intuitive feeling that we could see a deviation next week - it's a risky take, I know. Let me share my thoughts with you: 8:57 PM · Jan 5, 2025 · 153.2K Views 35 61 854 74 Relevant View qu...
+- Market proving again that liquidity is king. We marked the $91,666 liquidations as a possible reversal zone and there it is... - https://x.com/CrypNuevo/status/1874863094838476946/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: • Both wicks filled • All liquidations hit • $91,666 reversal Market proving again that liquidity is king. We marked the $91,666 liquidations as a possible reversal zone and there it is... Good start of the year Quote CrypNuevo @CrypNuevo · Dec 29, 2024 $BTC Sunday update: There are 2 wicks to the downside; 2 problems. In te...
+- Dec 9, 2024 - https://x.com/CrypNuevo/status/1866230432620060724
+  - CrypNuevo @CrypNuevo · Dec 9, 2024 $BTC SUNDAY UPDATE NAILED! I'm living the dream that one day I imagined... and the wick-fill strategy is one of the reasons. Now many other traders know about it too and can also archieve their goals. That feeling is the best one in the world. Feeling blessed! Quote CrypNuevo @CrypNuevo · Dec 8, 2024 $BTC Sunday update: It'...
+- Dec 8, 2024 - https://x.com/CrypNuevo/status/1866230432620060724/photo/1
+  - CrypNuevo @CrypNuevo $BTC SUNDAY UPDATE NAILED! I'm living the dream that one day I imagined... and the wick-fill strategy is one of the reasons. Now many other traders know about it too and can also archieve their goals. That feeling is the best one in the world. Feeling blessed! Quote CrypNuevo @CrypNuevo · Dec 8, 2024 $BTC Sunday update: It's all about th...
+- Dec 8, 2024 - https://x.com/CrypNuevo/status/1865821132051423658
+  - CrypNuevo @CrypNuevo · Dec 8, 2024 $BTC Sunday update: It's all about the long wick we created on Thursday - it needs to get filled. That's the only target I currently have in my chart. A $6k long wick in the 1h & 4h time frames is huge, it's a major imbalance that acts as a magnet. Let's analyse it 39 77 949 221K
+- unknown date - https://x.com/CrypNuevo/status/1865821132051423658/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: It's all about the long wick we created on Thursday - it needs to get filled. That's the only target I currently have in my chart. A $6k long wick in the 1h & 4h time frames is huge, it's a major imbalance that acts as a magnet. Let's analyse it 8:09 PM · Dec 8, 2024 · 221.1K Views 39 77 949 157 Relevant View quotes
+- Dec 1, 2024 - https://x.com/CrypNuevo/status/1863291992073179389
+  - CrypNuevo @CrypNuevo · Dec 1, 2024 $BTC Sunday update: Currently at resistance - $98.4k is the level to watch. Difficult to "predict" what's going to happen from here but we can project a couple triggers to plan how to play whatever price action comes to us. This is how I'm playing... 35 49 727 72K
+- Dec 1, 2024 - https://x.com/CrypNuevo/status/1863292006857953435
+  - CrypNuevo @CrypNuevo · Dec 1, 2024 I'll upload a new Youtube video next week about Bitcoin and some altcoin setups I have in mind. I don't usually trade much in December but this year is going to be an exception... markets look really good. Join my free Telegram channel where I post more: t.me CrypNuevo updates Welcome to my official Telegram channel! A more...
+- unknown date - https://x.com/CrypNuevo/status/1863291992073179389/photo/1
+  - CrypNuevo @CrypNuevo $BTC Sunday update: Currently at resistance - $98.4k is the level to watch. Difficult to "predict" what's going to happen from here but we can project a couple triggers to plan how to play whatever price action comes to us. This is how I'm playing... 8:40 PM · Dec 1, 2024 · 72.4K Views 35 49 727 76 Relevant View quotes
+- Nov 17, 2024 - https://x.com/CrypNuevo/status/1859674264724447241/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: First part of the projection completed It's still looking very strong so the question is whether we see a retrace from here or shoot up to $100k directly. And if we push higher and find acceptance above $100k, it'll be hard to lose that psychological support. Quote CrypNuevo @CrypNuevo · Nov 17, 2024 $BTC Sunday update: I'm ...
+- Nov 8, 2024 - https://x.com/CrypNuevo/status/1855020051683844432/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: $77k hit - liquidations hit Now yes... potential long squeeze in the making to shake-out some longs. Talk more in the BTC Sunday update with more data! Quote CrypNuevo @CrypNuevo · Nov 8, 2024 $BTC Yesterday, during FOMC, we saw a partial absorption of the liquidations to the upside. And considering that there is now even mo...
+- Nov 4, 2024 - https://x.com/CrypNuevo/status/1853202540889821422
+  - CrypNuevo @CrypNuevo · Nov 4, 2024 $BTC Sunday update: Another difficult trading week ahead. This time due to the US elections and FOMC meeting. I'm limiting my amount of trades this week too but with a very clear plan and trading setup. Let me share my idea with you here: 34 58 911 111K
+- Oct 13, 2024 - https://x.com/CrypNuevo/status/1845543279892341247
+  - CrypNuevo @CrypNuevo · Oct 13, 2024 $BTC Sunday update: Quiet week ahead; it should be a good one in regards to Price Action. We've seen aggresive moves in both directions and they are being retraced. But I'm looking for a move higher tho, ideally this scenario. This is my analysis and plan for this week: 40 76 716 78K
+- Oct 6, 2024 - https://x.com/CrypNuevo/status/1843201254475874605/photo/1
+  - CrypNuevo @CrypNuevo $BTC update: Just 12 hours later and... Liquidity Pool (LP) retraced and first part of the projection has been completed. Trust the system! Quote CrypNuevo @CrypNuevo · Oct 6, 2024 $BTC Sunday update: It's NOT going to be an easy week to trade. We have FOMC Minutes, CPI, PPI, Israel-Iran escalation.. so the best days could likely be Mond...
