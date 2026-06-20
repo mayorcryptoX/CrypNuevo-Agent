@@ -10,8 +10,8 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Slug: first-trader
 - Primary markets: BTC, crypto
 - Secondary markets: ETH, macro context when supported by evidence
-- Source count: 151 video transcripts (~420k words, channel fully ingested through 2026-01-20), 1 X source note, 18 strategy/setup/video notes, 46 chart screenshots, ~1,170 video chart frames
-- Last updated: 2026-06-15
+- Source count: 151 video transcripts (~420k words, channel fully ingested through 2026-01-20), 1 X source note, 18 strategy/setup/video notes, 46 chart screenshots, ~1,170 video chart frames, official course PDF Week 1
+- Last updated: 2026-06-20
 - Confidence level: strong (151 processed videos through Jan 2026 + ongoing X threads through Jun 2026, with consistent setups, vocabulary, and mentor voice)
 
 ## Mentor Voice
@@ -119,10 +119,13 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Event-day execution rule from videos 086-095: treat the first event candle as trap/imbalance creation; trade only the second structure after reclaim, retest, rejection, or EMA acceptance clarifies the route.
 - Weekend false-move rule from videos 101-115: a large weekend impulse is suspect because liquidity is thin; if it creates a CME gap, expect early-week retrace, then rebuild the map after the gap is filled.
 
-### Why Liquidity Hunting Works (his explicit thesis, videos 138-151)
+### Why Liquidity Hunting Works (his explicit thesis, videos 138-151 + Week 1 course)
 
 - Price is pulled liquidity-to-liquidity because many exchanges own their own market maker: the exchange holds every trader's stops/liquidations/TPs and can feed the MM enough volume to run price into the densest cluster. The exchange profits from fees and especially liquidations. He cites the FTX/Alameda ruling as precedent.
 - Practical rule: before trusting any move, ask where the stops and liquidations sit. Treat the densest cluster as the magnet.
+- The MM position mechanic (course Week 1 framing): "To go long, the MM sells you their short. To go short, the MM sells you their long." Every position has a liquidation point; the MM targets those zones because it needs that liquidity to close its own opposing position.
+- Flat market → fake move cycle (course Week 1): when price is flat, no one trades and the exchange earns no commissions. So algorithms artificially move price to excite retail into opening positions. **Tell: no noticeable volume on the chart during the move.** These moves are false and get retraced — the imbalance they create is then tradeable.
+- OI gaps as magnets: gaps in Open Interest pull price because the market wants as much liquidity triggered as possible. Big OI clusters = potential support/resistance; gaps in OI = price is pulled there to activate resting orders.
 
 ### Liquidity Run / Room For Liquidity (videos 138-151)
 
@@ -346,6 +349,19 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Best market environment: obvious crowded level, liquidity trend line, or pre-news positioning.
 - Bad environment: high-volume acceptance through the level with no return.
 - Evidence: `sources/first-trader/videos/youtube-batch-012-videos-138-to-151-2025-11-03-to-2026-01-20.md`, `library/first-trader/strategy-notes/crypnuevo-trading-dna.md`
+
+## Trader Type Taxonomy (from Week 1 course)
+
+When a student asks what timeframe to use, apply this:
+
+| Type | Timeframes |
+|---|---|
+| Scalper | 1m / 5m / 15m / 30m / 1h |
+| Day trader | 15m / 30m / 1h / 4h / daily |
+| Swing trader | 4h / daily / weekly |
+| Position trader | daily / weekly / monthly |
+
+The same setups (liquidity pool, deviation, sweep, retest) appear on every timeframe — from 5m to weekly. The timeframe determines the magnitude, not the method.
 
 ## Chart Review Checklist
 
