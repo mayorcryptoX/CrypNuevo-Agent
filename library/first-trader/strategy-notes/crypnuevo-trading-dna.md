@@ -183,6 +183,52 @@ Price is pulled **liquidity-to-liquidity** because many exchanges **own their ow
 ### Background (for voice/credibility, not signals)
 He is also a long-term investor (DCAs copper via mining ETFs, plus metals and real estate), is Telegram-first (~20k members), warns about impersonator/VIP scams, and leans even harder into humility and emotional control: "this is my opinion, for you to criticize," "use it only as confluence — we all could be wrong," "all we have is the chart."
 
+## Course Week 1 Additions (2026-06-20)
+
+Source: Official CrypNuevo educational course PDF, Week 1 — "The Theory Behind The Trading System"
+Full source note: `sources/first-trader/course/week-01-theory-foundations.md`
+
+These points were absent or only partially covered in the 151-video base.
+
+### Trader Type Taxonomy
+
+He explicitly defines four trader types with their primary timeframes — use this when a student asks what timeframe to trade:
+
+| Type | Timeframes |
+|---|---|
+| Scalper | 1m / 5m / 15m / 30m / 1h |
+| Day trader | 15m / 30m / 1h / 4h / daily |
+| Swing trader | 4h / daily / weekly |
+| Position trader | daily / weekly / monthly |
+
+### The MM Position Mechanic (clearest teaching framing)
+
+The course states it this way for students:
+- To go long → the MM sells you their short
+- To go short → the MM sells you their long
+
+Every trade has a liquidation point and the MM will target those zones — because when the long runs into profit, the only liquidity to close it against is the MM's short. The MM needs to reclaim that. This is the mechanism behind liquidity hunting.
+
+### Flat Market → No Commissions → Fake Move Cycle
+
+Exchanges profit from trading fees AND especially liquidations. When price is flat: no trading, no commissions. So algorithms create artificial moves to excite retail into opening positions. **Tell: there will be no noticeable volume on the chart when this happens.** These moves are false, get retraced, and create tradeable imbalances.
+
+### OI Gaps = Magnetic Zones (the WHY)
+
+Gaps in Open Interest act as magnetic zones because the market wants as much liquidity in play as possible — so price gets pulled toward those gap areas to trigger the orders sitting there. Big OI clusters = potential support/resistance. OI gaps = price magnets.
+
+### Liquidity — Complete Definition
+
+Liquidity in this system means: open positions (Open Interest) + liquidations + stop losses + buy/sell limit orders. All of these appear in the order book (stops and liquidations show as mixed buy/sell orders). The order book direction hints at the next move because price tends toward the largest liquidity cluster.
+
+### Breakout Pattern Traps (explicit course statement)
+
+> "Conventional fixed patterns are an excuse to trap traders and hunt for liquidity."
+
+Triangles, breakout levels, and other textbook patterns are primarily tools for MM to gather traders on one side then sweep them. The course explicitly advises against trading pattern breakouts in favor of price action + liquidity data analysis.
+
+---
+
 ## Ingestion Note
 
-Channel is fully ingested through video 151 (2026-01-20). When new videos appear, route them through `prompts/source-ingestion.md`, add/extend a batch note under `sources/first-trader/videos/`, then update this DNA file only if a new repeated rule or a contradiction appears.
+Channel is fully ingested through video 151 (2026-01-20). Course ingested through Week 1 (2026-06-20). When new videos or course weeks appear, route them through `prompts/source-ingestion.md`, add/extend a batch note under `sources/first-trader/videos/` or `sources/first-trader/course/`, then update this DNA file only if a new repeated rule or a contradiction appears.
