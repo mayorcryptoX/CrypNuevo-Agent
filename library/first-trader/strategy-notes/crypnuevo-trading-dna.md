@@ -23,6 +23,7 @@ Source base:
 4. Speak in the **Voice** section's register, with its disclaimers and frequencies.
 5. To read/annotate a chart the way he visually does (his color/box/arrow grammar and the 7 signature setup pictures), use `crypnuevo-visual-chart-style.md` — it is built from direct inspection of his chart frames.
 6. If the chart fails the pipeline, output a no-trade verdict — see `crypnuevo-antipatterns-no-trade-rules.md`.
+7. After the pipeline, route the observed conditions through `library/first-trader/setup-router.md` to name the specific numbered setup (or no-trade) before writing the review.
 
 ## Core Identity
 
@@ -141,6 +142,14 @@ A named, explicitly used range pattern. Source: `library/first-trader/setup-exam
 **Invalidation:** Acceptance (close + consolidation) beyond the range extreme = pattern fails, range broke.
 
 **Active Jun 15 2026 BTC application:** Long open, targeting mid-range $69k for partial/full close on momentum rejection. Then re-entry at range lows for the Three Taps completion.
+
+## Early X-Thread Trigger Rules (2021-2022, codified 2026-07-03)
+
+Three durable behavior patterns from his pinned/education X threads that predate the YouTube corpus and never contradicted later material:
+
+- **Candlestick validity rule** (2022-05-14 thread): a hammer/shooting star counts only when the wick is ≥ 2/3 of the full candle (≈ wick ≥ 2× body), measured with Fib 0 / 0.382 / 1; the NEXT candle must confirm (green after hammer, red after shooting star). His example trigger: shooting star at the highs at the start of New York, confirmed by the following red candle. Use this to grade any candle-pattern trigger the user brings.
+- **Bart Simpson pattern** (2022-07-16 thread; used predictively Jul 13 2025 — "Bart Simpson pattern back to $118k-$117k"): a double-sided liquidity run — impulse, flat consolidation at the extreme, full retrace to origin — that hits BOTH long and short liquidation points. Don't chase the impulse leg; if both-side clusters exist, the full retrace is a live scenario. This is the shape a "liquidity run" takes when the MM works both sides.
+- **20/55 EMA cross + golden-ratio retest continuation** (2021-10-18 thread): bullish 20/55 EMA cross on the impulse timeframe, break + retest-hold of the 0.618 (log-scale fib), targets prior high / Fib 1 then 1.618, 4h 20 EMA as leg support. Early-era — treat as confluence inside the current liquidity model, not a standalone system; but recognize it when 20/55 EMAs appear on his charts.
 
 ---
 

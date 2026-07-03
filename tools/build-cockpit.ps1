@@ -20,6 +20,7 @@ Copy-Item $sysPrompt (Join-Path $dist 'cockpit-custom-instructions.md') -Force
 $bundleParts = @(
     'profiles/first-trader.md',
     'library/first-trader/strategy-notes/crypnuevo-trading-dna.md',
+    'library/first-trader/setup-router.md',
     'library/first-trader/setup-examples/crypnuevo-visual-chart-style.md',
     'library/first-trader/setup-examples/crypnuevo-antipatterns-no-trade-rules.md',
     'library/first-trader/strategy-notes/crypnuevo-strategy-map.md',

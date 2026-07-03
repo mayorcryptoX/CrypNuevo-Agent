@@ -48,7 +48,7 @@ Goal: every concept the output format demands is a codified rule with conditions
 3. **Fill the empty folders:**
    - `library/first-trader/risk-rules/` — position sizing, max risk per idea, R:R floor, no-trade triggers, event-day rules.
    - `library/first-trader/personality-notes/` — tone, recurring phrases, psychology lines (feeds the "Psychology Note" section).
-4. **Build a Setup Router** (`library/first-trader/setup-router.md`): a decision tree mapping observed chart conditions → which of the 15+ setups applies → what trigger/invalidation to quote. This is what lets the agent "silently analyze, then pick the right setup."
+4. **Build a Setup Router** (`library/first-trader/setup-router.md`): a decision tree mapping observed chart conditions → which of the 15+ setups applies → what trigger/invalidation to quote. This is what lets the agent "silently analyze, then pick the right setup." · ✅ DONE (2026-07-03) — routes Setups 1-20 with global gates and a trigger-quality check.
 5. Flip profile `Confidence level` to `established` once 1–4 are done and evals pass.
 
 ## Phase 3 — Hybrid live-data layer  ·  medium priority

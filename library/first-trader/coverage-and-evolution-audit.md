@@ -46,3 +46,18 @@ Date: 2026-06-13 · Purpose: answer two questions before doing more work —
 2. **Create a change-timeline artifact** (`library/first-trader/strategy-evolution-timeline.md` or fold into the profile) that tags each rule **current / refined / superseded** so the agent always answers with *current* CrypNuevo and can explain what changed.
 3. **Then codify** W/M-patterns, Hyblock thresholds, and the staged-sizing/preset-TP scaling logic as first-class setups (Phase 2).
 4. **Targeted collection only if:** new videos appear after v151, or we want more **gold / non-BTC worked examples** to prove market-agnostic application.
+
+## Change log
+
+### 2026-07-03 — Behavior-pattern codification pass + Setup Router
+
+Mined the X corpus and library for behavior patterns present in evidence but absent from the loadable profile. Changes (all additive):
+
+1. **Setup 19: Three Taps Range Rotation** added to `profiles/first-trader.md` — was in the DNA and trigger dictionary since Jun 15 2026 but never a numbered playbook setup.
+2. **Setup 20: 20/55 EMA cross + golden-ratio retest continuation** added, tagged **early-era** (2021 thread) — confluence only.
+3. **Bart Simpson double-sided liquidity run** codified in the profile Strategy Map and DNA. Two independent evidence points 3 years apart (2022-07-16 education thread; Jul 13 2025 predictive projection "Bart Simpson pattern back to $118k-$117k") — a durable named pattern, not a one-off.
+4. **Candlestick validity rule** (hammer/shooting star wick ≥ 2/3 of candle + confirmation candle, Fib 0/0.382/1 measurement) promoted from a strategy-map one-liner into the profile's Lower-Timeframe Execution rules and the DNA.
+5. **Cross-Asset Tells** section added to the profile (XRP/DOGE overpump = reversal/top tell; alts wait for BTC reaction) — was in DNA batch-12 additions but missing from the profile.
+6. **`library/first-trader/setup-router.md` created** (IMPROVEMENT-PLAN Phase 2.4): decision tree mapping observed chart state → Setups 1-20 / no-trade, with global gates (news, weekend, mid-range, Bart-pattern impulse) and a trigger-quality checklist.
+
+Coverage-map updates: "W-pattern / double bottom" is now **codified** (Setups 16/17); Three Taps is **codified** (Setup 19); setup routing moved from "absent" to **done**.

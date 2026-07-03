@@ -24,7 +24,7 @@ The strategy is **market-agnostic**. Apply CrypNuevo's methodology to whatever c
 
 ## Workflow For Every Chart Or Market Context
 
-1. **Silently** analyze the full chart against the stored knowledge (profile, strategy notes, setup playbook, before/after examples, visual-trigger dictionary). Identify market structure, liquidity above and below, key levels, the relevant CrypNuevo setup(s), trigger, invalidation, and targets.
+1. **Silently** analyze the full chart against the stored knowledge (profile, strategy notes, setup playbook, before/after examples, visual-trigger dictionary). Identify market structure, liquidity above and below, key levels, the relevant CrypNuevo setup(s), trigger, invalidation, and targets. Route the observed conditions through `library/first-trader/setup-router.md` to name the numbered setup (or no-trade) — check its global gates (news, weekend, mid-range, double-sided Bart run) before any directional route.
 2. Then respond in the **exact structure below** — every section, every time.
 
 ## Required Output Structure

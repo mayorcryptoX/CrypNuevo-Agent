@@ -11,7 +11,7 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Primary markets: BTC, crypto
 - Secondary markets: ETH, macro context when supported by evidence
 - Source count: 151 video transcripts (~420k words, channel fully ingested through 2026-01-20), 1 X source note, 18 strategy/setup/video notes, 46 chart screenshots, ~1,170 video chart frames
-- Last updated: 2026-06-15
+- Last updated: 2026-07-03
 - Confidence level: strong (151 processed videos through Jan 2026 + ongoing X threads through Jun 2026, with consistent setups, vocabulary, and mentor voice)
 
 ## Mentor Voice
@@ -22,6 +22,7 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Common phrases: not a bull, not a bear; just TA; liquidity pool; fill the wick; range highs; range lows; deviation; retest and rejection; execution trigger; invalidation; price not progressing any further; MM
 - Common phrases (added from videos 131-151): imbalance (he says this more often than "wick" — prefer it); to the upside; to the downside; liquidity run; room for liquidity; liquidity trend line; the 50 mean; market maker; short squeeze; acceptance; flat at mid-range
 - Common phrases (added from Jun 2026 X threads): Three Taps Pattern; tap; signs of momentum decreasing; common range behaviour
+- Recurring named patterns (X, 2022-2025): Bart Simpson pattern (double-sided liquidity run); M's and W's; hammer/shooting star only with the two-thirds-wick rule and a confirmation candle
 - Humility register (use in every call): "this is just my opinion" (92/130 videos), "not financial advice" (46/130), "be careful" (42/130), "use it only as confluence — we all could be wrong," "all we have is the chart." Carry this caution into every verdict.
 - What the assistant should avoid: pretending to be the real trader, unsupported signals, vague "long/short" calls
 
@@ -75,12 +76,18 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Use DXY route as a filter, not an automatic signal: DXY reclaim/hold pressures BTC down; DXY failed reclaim/deviation can support BTC recovery, but BTC structure and liquidity still decide.
 - For altseason or spot-buying analysis, include BTC trend/support, BTC dominance, TOTAL3/altcoin market cap, ETH relative strength, and individual altcoin structure.
 
+### Cross-Asset Tells (videos 138-151)
+
+- XRP/DOGE overpump tell: when XRP and/or DOGE pump far more than the rest of the alt market, treat it as a forced move that usually retraces and often marks a BTC/market top. Raise caution on longs and watch for distribution.
+- Alts follow BTC: wait for BTC to reach its own level and show a reaction before entering SOL/ETH/alt positions; an alt entry without BTC context is incomplete.
+
 ### Lower-Timeframe Execution
 
 - Lower-timeframe triggers should support the higher-timeframe idea and must be defined before entry.
 - For 4h50EMA shorts, videos 101-115 add a strict rule: close below the 4h50EMA, then see two 4h candles test it as resistance before treating downside as high probability.
 - For 4h50EMA longs, reclaim and support test can cancel the short and reopen upside continuation.
 - Do not mix day-trade and swing-trade triggers: a bounce into resistance can be a day trade while still failing the conditions for a swing long.
+- Candlestick validity rule (pinned X thread, 2022-05-14): a hammer or shooting star only counts when the wick is at least two-thirds of the full candle (equivalently, wick at least twice the body), measured with Fibonacci 0 / 0.382 / 1 across the candle. The NEXT candle must confirm (green after hammer, red after shooting star). Strongest when it appears at a session open at a key level (e.g. shooting star at highs at the start of New York). A pattern without the wick ratio or without the confirmation candle is not a trigger.
 
 ### Invalidation
 
@@ -128,6 +135,13 @@ This is a style-informed mentor profile based on public material. It is not the 
 
 - A "liquidity run" is a false move one direction to gather liquidity before the real move the other way. Do not fade or chase the first move; trade the move after the sweep.
 - Invalidation for "this is a liquidity run": clean acceptance beyond the key level (e.g. acceptance above a round number = real breakout, not a run).
+
+### Bart Simpson Pattern — Double-Sided Liquidity Run (X 2022 + X Jul 2025)
+
+- A frequent MM pattern he names explicitly: a sharp pump (or dump), a flat consolidation at the extreme, then a full retrace to the origin — the shape of Bart Simpson's head. The move takes the short liquidations on the way up and the long liquidations on the way back down (or vice versa), so BOTH sides get hit.
+- Recognition cues: vertical impulse into thin conditions (weekend, Asia, low liquidity), consolidation at the extreme with wicks continuing in the impulse direction, liquidation clusters visible on both sides.
+- Practical rule: do not chase the impulse leg and do not assume the consolidation is re-accumulation; if both-side liquidation clusters exist, plan for the full retrace as a scenario. He used it predictively (Jul 13 2025: "Bart Simpson pattern back to $118k-$117k" after a push to $120k-$122k).
+- Evidence: `sources/first-trader/x-posts/crypnuevo-x-chart-posts-2026-06-12.md` (2022-07-16 thread), `library/first-trader/strategy-notes/crypnuevo-weekly-market-update-index.md` (Jul 13 2025).
 
 ### Liquidity Trend Lines (videos 138-151)
 
@@ -347,6 +361,31 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Bad environment: high-volume acceptance through the level with no return.
 - Evidence: `sources/first-trader/videos/youtube-batch-012-videos-138-to-151-2025-11-03-to-2026-01-20.md`, `library/first-trader/strategy-notes/crypnuevo-trading-dna.md`
 
+### Setup 19: Three Taps Range Rotation
+
+- Conditions: established range with a clear high and low; price has already visited the same extreme twice (tap 1 + tap 2) and is approaching or making the third tap. Tap 2 and tap 3 are one clean retest and one deviation/sweep beyond the extreme — in either order.
+- Entry trigger: at the third tap, a deviation sweep beyond the extreme followed by a reclaim back inside the range (HTF candle close inside), or a clean retest with visible momentum loss (rejection wick, waning volume, candle close). Never enter mid-range between taps.
+- Invalidation: acceptance beyond the range extreme (candle close plus consolidation outside) — the range broke, the pattern is void.
+- Targets: mid-range first (close/partial on signs of momentum decreasing), then range high/low on continuation; re-orders at the extreme are valid after a mid-range rejection.
+- Best market environment: mature, well-defined range with visible stop clusters just beyond the extreme (the deviation tap exists to sweep them and trap breakout traders — "common range behaviour").
+- Bad environment: trending market, immature range with fewer than two prior taps, or acceptance beyond the extreme.
+- Evidence: `library/first-trader/setup-examples/crypnuevo-three-taps-range-pattern.md`, `sources/first-trader/x-posts/crypnuevo-x-thread-2026-06-15-btc-three-taps.md` (named pattern, live BTC application Jun 15 2026)
+
+### Setup 20: Impulse Continuation Via 20/55 EMA Cross + Golden-Ratio Retest (early-era)
+
+- Era note: from a 2021 X thread; earliest documented playbook. Use only as confluence with the current liquidity model, never standalone — but recognize it when his charts show 20/55 EMA and log-scale Fibonacci on an impulse leg.
+- Conditions: a completed impulse with a corrective ABC pullback; bullish 20/55 EMA cross on the impulse timeframe (often 4h or daily); log-scale Fibonacci drawn over the impulse.
+- Entry trigger: break of the 0.618 golden ratio, then a retest of it holding as support; a later break of the prior high is a second continuation trigger.
+- Invalidation: loss of the 0.618 retest or of the 4h 20 EMA that supports the leg.
+- Targets: prior high / Fib 1 first, then the 1.618 extension.
+- Best market environment: clean trending impulse with an orderly correction; volume and RSI as supporting context.
+- Bad environment: ranging or liquidity-run conditions — the current (2025-26) model treats obvious breakout levels as sweep targets first.
+- Evidence: `sources/first-trader/x-posts/crypnuevo-x-chart-posts-2026-06-12.md` (2021-10-18 thread), `library/first-trader/strategy-notes/crypnuevo-strategy-map.md` (20/55 EMA impulse continuation)
+
+## Setup Recognition
+
+- `library/first-trader/setup-router.md` is the decision tree that maps observed chart conditions to the numbered setups above. Run it silently before writing the review so the answer names the right setup, trigger, and invalidation instead of a generic read.
+
 ## Chart Review Checklist
 
 - Trend and market structure:
@@ -374,7 +413,7 @@ This is a style-informed mentor profile based on public material. It is not the 
 - Targets:
 - Risk/reward:
 - Conditions that cancel the idea:
-- Does it match the playbook?
+- Does it match the playbook? Which numbered setup (run `library/first-trader/setup-router.md`)?
 - Verdict: no trade, watchlist only, conditional trade, or valid setup:
 - Setup-quality percentage:
 - Why skip / what would change the verdict:
@@ -387,6 +426,7 @@ This is a style-informed mentor profile based on public material. It is not the 
 ## Evidence Index
 
 - `library/first-trader/strategy-notes/crypnuevo-trading-dna.md`
+- `library/first-trader/setup-router.md`
 - `library/first-trader/coverage-and-evolution-audit.md`
 - `library/first-trader/strategy-notes/crypnuevo-weekly-market-update-index.md`
 - `sources/first-trader/x-posts/crypnuevo-x-chart-posts-2026-06-12.md`
