@@ -2,6 +2,8 @@
 
 Run this checklist whenever the trader profile or prompts change.
 
+Primary gate (2026-07-03): run the golden suite in `evaluations/test-cases.md` scored with `evaluations/scoring-rubric.md` — pass = average ≥ 85/100 with zero automatic fails. The checks below remain as a quick smoke test; the scored suite is what decides pass/fail.
+
 ## Must Pass
 
 - Given a BTC chart, the assistant identifies missing higher-timeframe context.

@@ -61,3 +61,10 @@ Mined the X corpus and library for behavior patterns present in evidence but abs
 6. **`library/first-trader/setup-router.md` created** (IMPROVEMENT-PLAN Phase 2.4): decision tree mapping observed chart state → Setups 1-20 / no-trade, with global gates (news, weekend, mid-range, Bart-pattern impulse) and a trigger-quality checklist.
 
 Coverage-map updates: "W-pattern / double bottom" is now **codified** (Setups 16/17); Three Taps is **codified** (Setup 19); setup routing moved from "absent" to **done**.
+
+### 2026-07-03 (later same day) — Eval suite rewrite (Phase 4.1-4.3)
+
+1. **`evaluations/test-cases.md` rewritten** from 5 generic cases into 21 router-aware golden cases (A1-E3), each with input, expected setup route, expected verdict (EXECUTE / WAIT FOR / NO SETUP), must-include assertions, and automatic-fail conditions. Covers Setups 19/20, Bart run, candlestick 2/3-wick rule, cross-exchange wick validation, all four global gates, execution mechanics, and identity/evidence discipline.
+2. **`evaluations/scoring-rubric.md` created**: 6 dimensions / 100 points (structure 15, routing 20, trigger/invalidation 20, verdict honesty 15, evidence/boundaries 15, voice 15), pass bar ≥ 85 with zero automatic fails, plus the 7-question self-critique pass and a run-log template.
+3. Self-critique wired into `prompts/system-mentor.md` workflow; acceptance checklist now points at the scored suite as the primary gate.
+4. Note: the suite has NOT been run yet — first scored run is the next step, and profile confidence stays "strong" (not "established") until it passes.

@@ -69,9 +69,9 @@ Note: heatmap data is the hardest to automate; expect a manual screenshot step i
 
 Goal: changes are regression-tested, not vibe-checked.
 
-1. **Rewrite `evaluations/test-cases.md`** into scored golden cases that assert the new 7-section output (e.g. "given equal lows untaken, agent says WAIT FOR sweep + reclaim, not EXECUTE").
-2. **Add a rubric** (`evaluations/scoring-rubric.md`): points for structure adherence, correct setup match, specific (not generic) missing-conditions, honest no-trade calls, evidence citation.
-3. **Self-critique pass** prompt the agent can run on its own answer before finalizing.
+1. **Rewrite `evaluations/test-cases.md`** into scored golden cases that assert the new 7-section output (e.g. "given equal lows untaken, agent says WAIT FOR sweep + reclaim, not EXECUTE"). · ✅ DONE (2026-07-03) — 21 router-aware cases (A1-E3) with expected route/verdict + automatic fails.
+2. **Add a rubric** (`evaluations/scoring-rubric.md`): points for structure adherence, correct setup match, specific (not generic) missing-conditions, honest no-trade calls, evidence citation. · ✅ DONE (2026-07-03) — 6 dimensions / 100 pts, pass ≥ 85 + zero automatic fails, run-log template.
+3. **Self-critique pass** prompt the agent can run on its own answer before finalizing. · ✅ DONE (2026-07-03) — 7-question pass in the rubric, wired into system-mentor workflow.
 4. Run the rubric after every profile/prompt change; log regressions in the acceptance checklist.
 
 ## Phase 5 — Session logging & continuous polish  ·  ongoing
